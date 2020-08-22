@@ -1,0 +1,127 @@
+<?
+
+	string strCommand = $g_command;
+	
+	string strArg1 = $g_arg1;
+
+	string strResponse;
+	
+	bool bIgnoreDefaultHiProcessingForArg1 = false;
+
+	 if(strCommand == "") // !
+	 {
+
+		strResponse += " These are supported commands by ca2 irc_bot : !, !hello, !hola, !about, !about2, !metaabout, !help, !error, !lang, !greenlang, !ecolang";
+
+	 }
+	 else if(strCommand == "hello")
+	 {
+
+		if(strArg1.has_char())
+		{
+
+		   strResponse += "Hello " + strArg1 + "!!";
+
+		}
+		else
+		{
+
+		   strResponse += "Hello!!";
+
+		}
+		
+		bIgnoreDefaultHiProcessingForArg1 = true;
+
+	 }
+	 else if(strCommand == "hola")
+	 {
+
+		if(strArg1.has_char())
+		{
+
+		   strResponse += "Hola, " + strArg1 + "!!";
+
+		}
+		else
+		{
+
+		   strResponse += "Hola!!";
+
+		}
+		
+		bIgnoreDefaultHiProcessingForArg1 = true;
+
+	 }
+	 else if(strCommand == "about")
+	 {
+
+		strResponse += "ca2 (I particularly spell each letter and the number) is platform for software development. At Twitch, I am going to try to help ca2 be also an IT game software development or its IT/IT entertenmaint part.";
+
+	 }
+	 else if(strCommand == "about2" || strCommand == "metaabout")
+	 {
+
+		strResponse += "I am a irc bot written as ca2 service, now with ds (dynamic source: C++ scripting) capabilities (Curitiba-PR-BR, 2015-04-20-ds-2015-04-22-).";
+
+	 }
+	 else if(strCommand == "help")
+	 {
+
+		if(strArg1.has_char())
+		{
+
+		   strResponse += strArg1 + "... help me, too, please...";
+
+		}
+		else
+		{
+
+		   strResponse += "me... help me, too, please...";
+
+		}
+		
+		bIgnoreDefaultHiProcessingForArg1 = true;
+
+	 }
+	 else if(strCommand == "error")
+	 {
+
+		strResponse += "a nanoerror (ops...) a tiny error is also an error.";
+
+	 }
+	 else if(strCommand == "lang" || strCommand == "ecolang" || strCommand == "greenlang")
+	 {
+
+
+		strResponse += "a bit of error (for balancing a lot of correctness): ca2 aims to be a sencient limit where CXXX converges (in the infinite) to a can-be-interpreted as a Classy Assembler Square: It is better to talk machine's language while performance (battery/velocity) is needed, and not in a blah/blah non known command language (unless you add an interpertrer/Google Translator for each Assembler Instruction: Google Search ISA, Look Google is fast and I hope the quantic computer does not create such a big black-hole that blows up a new B-";
+
+	 }
+	 else
+	 {
+	 
+		strResponse += "Error 404: Not Found! : - \"The command '" + strCommand + "' is unknown.\"";
+	 
+	 }
+
+	 if(!bIgnoreDefaultHiProcessingForArg1 && strResponse.has_char())
+	 {
+
+		if(strArg1.has_char())
+		{
+
+		   strResponse = "Hi " + strArg1 + ", " + strResponse;
+
+		}
+		else
+		{
+
+		   strResponse = "Hi, " + strResponse;
+
+		}
+
+	 }
+
+	 return strResponse;
+
+
+?>

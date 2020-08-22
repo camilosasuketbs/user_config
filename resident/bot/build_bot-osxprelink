@@ -1,0 +1,1 @@
+mkdir -p %BUILD_FOLDER%/Intermediates.noindex/%SRC_NAME%.build/Debug/%SRC_NAME%.build/Objects-normal/x86_64/

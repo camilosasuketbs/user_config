@@ -1,0 +1,223 @@
+msgid "Good Morning!"
+msgtext "God morgen"
+
+msgid "Good Afternoon!"
+msgtext "God Eftermiddag!"
+
+msgid "Good Evening!"
+msgtext "God Aften!"
+
+msgid "Good Night!"
+msgtext "Godnat!"
+
+msgid "%name, Good Morning!"
+msgtext "Godmorgen, %name!"
+
+msgid "%name, Good Afternoon!"
+msgtext "God Eftermiddag, %name!"
+
+msgid "%name, Good Evening!"
+msgtext "Godaften, %name!"
+
+msgid "%name, Good Night!"
+msgtext "Godnat, %name!"
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgtext "%name, Botten understøtter følgende kommadoer: !help, !about og !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgtext "%name, sangen kan ikke afspilles eller er ikke tilgængelig."
+msgtext "%name, nummer wordt niet afgespeeld of is helaas niet beschikbaar."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name, sangen som afspilles lige nu er: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, hjælp er kategoriseret i:\n!help util\n!help info\n!help config\n en\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgtext "%name, kommadoer er kategoriseret i:\n!commands info\n!commands config\n en \n!commands media ";
+
+msgid " settings commands are:"
+msgtext " indstillinger for konfiguration er:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"navn\"\n!setlang \"landkode\"\n en \n!setzone \"tidszone\""
+
+msgid " multimedia commands are:"
+msgtext " indstillinger for multimedia er:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"tekst\"\n!playlist\n en\n!play \"lyd\""
+
+msgid " some utility commands:"
+msgtext " andre brugbare indstillinger er:"
+
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"oversættelse via Urban Dictionary\"\n!at \"oversættelse via Google\"\n en\n!t \"sprog\" \"tekst som skal oversættes\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr of !rickroll spiller 80'er hittet Never Gonna Give You Up af Rick Astlet med ASCII animation."
+
+msgid "%name, Use this command to get special tips"
+msgtext "%name, Brug denne kommando til at få særlige tips."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, say bruger Windows Oplæser til at sige din ønskede tekst."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgtext "%name, ide \"platform\" viser oplysninger om de programmer, der er blevet brugt til udvikling af ca2 frameworket og apps ud fra den specifikke platform. \"platform\" kan være: Windows (Desktop), Linux, MacOS, iOS, Android and WinRT."
+
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgtext "%name, setlang \"sprog eller landekode\" sætter det foretrukne sprog for brugeren. Botten vil herefter tale til dig i det valgte sprog."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, brug setname kommadoen til at sætte et ønsket brugernavn eller kælenavn, du kan gøre brug af både store og små bogstaver samt mellemrum. Dette kan være med til at optimere udtalelsen udført af Text-To-Speech."
+
+msgid " information retrieval commands are:"
+msgtext " anmod om oplysninger via følgende kommadoer:"
+
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits"
+msgtext "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nog\n!credits"
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, For Windows Desktop softwareudvikling bruger ca2, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN og WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, For Linux Softwareudvikling bruger ca2, Ubuntu %topic, Code::Blocks og SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, På MacOS bruger ca2, El Capitan, XCode og SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, ved udvikling af iOS-applikationer bruger ca2, Mac OS X El Capitan, XCode, XCode simulator, SmartSVN og voor iOS ontwikkeling gebruikt ca2 Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator en wanneer de co-founder overtuigd wordt ook een geleend iOS apparaat."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, ved udvikling af Android-applikationer bruger ca2, Windows med Hyper-V, Visual Studio Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator For Android and Galaxy Tab 3(Gave fra ca2 udviklerne og brugere)."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, ved udvikling af Windows Store applikationer bruger ca2, Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN og WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, Et udråbstegn efterfulgt af en ukendt kommado resulterer i et lydklip fra afspilningslisten vil blive afspillet. Hvis dette lydklip ikke kunne findes, vil teksten blive afspillet via !say <text>."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 er et multiplatform framework til et hvert formål. Ca2 frameworket består i en samling af biblioteker skrevet i C++ og har til hensigt i at hjælpe udviklere med at skabe innovative apps."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation."
+msgtext "%name, Brugeroplyninger som profilbillede, land og flag kommer fra xmetrix web API. Vapaamies for den russiske oversættelse. R00tkiller for den franske oversættelse. Catherinacortega for den hollandske oversættelse. Fuel and Andremommert for den tysk oversættelse. Pawel Kulesza for den polske oversættelse. Ha10word for den kinesiske oversættelse."
+
+msgid "%name, your language is set to %topic"
+msgtext "%name, dit sprog er sat til %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgtext "%name, dit sprog blev sat til \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%name, din tidszone blev sat til UTC %topic"
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, din tidszone blev sat til \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgtext "Echter het is op dit moment \"Unknown Time Zone\". Kald på ca2 for at få hjælp (eller ikke)."
+
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, din tidszone er sat til %topic"
+
+msgid "%name, your language was set to %topic"
+msgtext "%name, dit sprog blev sat til %topic"
+
+msgid "and your country was set to %topic"
+msgtext "og dit land blev sat til %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgtext "%name, på nuværende tidspunkt er det kun klienten som er tilgængelig."
+
+msgid "No files in the playlist"
+msgtext "Der blev ikke fundet filer i afspilningslisten."
+
+msgid " gone, uff..."
+msgtext "væk, oeff..."
+
+msgid "Bye %name! :("
+msgtext "Farvel %name! :("
+
+msgid "See you %name! :("
+msgtext "Vi ses senere %name! :("
+
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name, er forbundet!! (Subset of commands enabled)."
+
+msgid "%name you are connected!";
+msgtext "%name du er nu tilsluttet!";
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgtext "<emph>Velkommen %name! :) %param1</emph> Du kan bruge udråbstegnet for hjælp '!'."
+
+msgid "<emph>Hi %name! Welcome! %param1</emph> What brings you here today?"
+msgtext "<emph>Hej %name! Velkommen! %param1</emph> Hvad tilbringer dig her?"
+
+msgid "%name is back! :)"
+msgtext "%name er tilbage! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Du er velkommen, %name! Tak for dit follow!"
+
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Spiller Rick Roll for alle dine følgere!!"
+
+msgid "Opening Rick Roll for you!!"
+msgtext "Spiller Rick Roll for dig!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, Afspiller nu Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Afspiller Rick Astley - Never Gonna Give You Up!"
+
+msgid "%name, your country is unknown"
+msgtext "%name, dit land kunne ikke lokaliseres"
+
+msgid "%name, your country is set to \"%topic\""
+msgtext "%name, dit land er sat til \"%topic\""
+
+msgid "%name, country of %param1 is unknown"
+msgtext "%name, %param1's land er ukendt."
+
+msgid "%name, country of %param1 is \"%topic\""
+msgtext "%name, %param1's land er \"%topic\""
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgtext "%name, du skal som minimum have Visual Studio 2015 Community Edition, en SVN klient og adgang til repository (en gyldig email adresse) Du kan spørger Camilo for nærmere detaljer."
+
+msgid "%name, it is \"%topic\""
+msgtext "%name, det er \"%topic\""
+
+msgid "%name, it is \"%topic\" for %param1."
+msgtext "%name, det er \"%topic\" for %param1."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgtext "%d/%m/%Y %H:%M:%S"
+
+msgid "hour/minutes/seconds"
+msgtext "timer:minutter:sekunder"
+
+
+msgid "%name, your country code is set to \"%topic\""
+msgtext "%name, dit land er sat til \"%topic\""
+
+msgid "%name, country code of %param1 is \"%topic\""
+msgtext "%name, landkode for %param1 er \"%topic\""
+
+msgid "(No Results)"
+msgtext "(Ingen resultater)"
+
+msgid "%name, the weather at %param1 is %topic."
+msgtext "%name, vejret hos dig er %param1, %topic."
+
+msgid "%name, your current weather is %topic."
+msgtext "%name, vejret hos dig er %topic."
+
+msgid "%name, the weather for %param2 at %param1 is %topic."
+msgtext "%name, vejret for %param2 i %param1 er %topic."

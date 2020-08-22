@@ -1,0 +1,7 @@
+﻿4
+0
+Regression: Core Applications (for Twitter Automator)
+Regression: Multimedia Applications (for Twitter Automator)
+Regression: Utilities (for Twitter Automator)
+Twitter Automator
+Multimedia ApplicationsUtilitiesmacOS Core Applications

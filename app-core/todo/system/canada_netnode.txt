@@ -1,0 +1,1 @@
+﻿from netnode at Beauharnois, Canada!! through OVH.pt 1Gbps ▼ 500Mpbs ⏶Intel(R) Xeon(R) CPU E3-1245 v5 @ 3.50GHz 2 x 450GiB NVMe 32GB RAM Windows Server 2016 Standard VMware Workstation (and Virtual Machines with Dedicated IPs: Ubuntu 18.10, macOS High Sierra 10.14.1, Windows 10 Pro)

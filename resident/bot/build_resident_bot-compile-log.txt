@@ -1,0 +1,3 @@
+﻿resident_bot.cpp
+C:\Users\camilo\AppData\Roaming\ca2\config\resident\bot\resident_bot.cpp(1): error C2471: cannot update program database 'C:\xcore\time\intermediate\x64\basis\app-core\app_core_resident_desktop\vc142.pdb'
+C:\Users\camilo\AppData\Roaming\ca2\config\resident\bot\animation_disco.cpp(11): fatal error C1033: cannot open program database 'C:\xcore\time\intermediate\x64\basis\app-core\app_core_resident_desktop\vc142.pdb'

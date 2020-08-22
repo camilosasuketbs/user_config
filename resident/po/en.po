@@ -1,0 +1,174 @@
+msgid "explain to %name that I am now coding cross platform round"
+msgstr "Hi %name, now I am doing a cross-platform round. Frequently, I port ca2 framework latest changes to the supported platforms: Windows Desktop, Windows Store App, macOS, iOS, Linux and Android. More info at: https://github.com/ca2/faq/blob/master/cross_platform_round.md"
+
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgstr "%name, Some supported commands !help, !about and !want the bot. More: https://ca2.cc/app-core/resident/commands"
+
+msgid "%name, song not playing or not in record."
+msgstr ""
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgstr ""
+
+msgid "%name, help information is grouped in:\n!hlp util\n!hlp info\n!hlp config\n and\n!hlp media"
+msgstr "%name, Hilfeinformationen werden in gruppiert:\n!hlp util\n!hlp info\n!hlp config\n und\n!hlp media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgstr "";
+
+msgid " settings commands are:"
+msgstr ""
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgstr ""
+
+msgid " multimedia commands are:"
+msgstr ""
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgstr ""
+
+msgid " some utility commands:"
+msgstr ""
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgstr ""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgstr ""
+
+msgid "%name, Use this command to get special tips"
+msgstr ""
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgstr ""
+
+msgid "%name, ide <platform> display information about tools used for development of ca2 framework and apps at the specified platform. <platform> may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgstr ""
+          
+msgid "%name, setlang <language code and/or two-letter country code> sets user preferred language. Communication is preferrably done using specified language or country."
+msgstr "%name, setlang <language code and/or two-letter country code> sets user preferred language. The bot speaks to you in selected language, as much as possible."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgstr ""
+
+msgid " information retrieval commands are:"
+msgstr ""
+        
+msgid "!ide \"platform\"\n!hlp \"command\"\n!cmdtips\n!commands\n!about\n!vaimepassarobot?\n and\n!credits" 		
+msgstr ""
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2017 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses latest version of Ubuntu LTS, Code::Blocks and SmartSVN."
+msgstr ""
+
+
+msgid "%name, At MacOS, ca2 uses macOS %topic, XCode and SmartSVN."
+msgstr "%name, for macOS Software Development, ca2 uses macOS %topic, XCode and SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgstr ""
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgstr "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2017 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2017 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgstr ""
+
+
+msgid "%name, ca2 é uma framework e conjunto de bibliotecas escritas em linguagem C++ para ajudar desenvolvedores criarem grandes aplicativos para usuários."
+msgstr ""
+
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgstr ""
+
+
+msgid "%name, user info user thumb, user country and user flag are supplied by xmetrix code, web api and web server. Thank you, Vapaamies for Russian translation. Thank you, r00tkiller for French translation. Thank you, catherinacortega for Dutch translation. Thank you, andremommert for some German translation. Remarks many translations still Google."
+msgstr ""
+
+msgid "%name, your language is set to %topic"
+msgstr ""
+
+
+msgid "%name, your language was set to \"%topic\""
+msgstr ""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgstr ""
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgstr ""
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgstr ""
+
+msgid "%name, your time zone is set to %topic"
+msgstr ""
+
+msgid "%name, your time zone is set to %topic"
+msgstr ""
+         
+msgid "%name, your language was set to %topic"
+msgstr ""
+
+msgid "and your country was set to %topic"
+msgstr ""
+
+msgid "%name , Currently only the client will be made available."
+msgstr "%name, No momento somente o aplicativo cliente será disponibilizado."
+
+msgid "No files in the playlist"
+msgstr ""
+
+msgid " gone, uff..."
+msgstr ""
+         
+msgid "Bye %name! :("
+msgstr ""
+
+msgid "See you %name!"
+msgstr ""
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgstr ""
+
+msgid "%name you are connected!";
+msgstr ""
+
+msgid "Welcome %name! :) %param1 Use exclamation mark if you need help."
+msgstr ""
+
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgstr ""
+
+msgid "%name is back! :)"
+msgstr ""
+
+msgid "You're welcome, %name! Thank you for following!"
+msgstr ""
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgstr ""
+
+msgid "Opening Rick Roll for you!!"
+msgstr ""
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgstr ""
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgstr ""
+
+
+msgid "to speak a text, use exclamation mark followed by space character"
+msgstr "In order to speak a text, use exclamation mark followed by space character."
+
+

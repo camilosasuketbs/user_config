@@ -1,0 +1,1 @@
+wss://chat2-dal.beam.pro:443

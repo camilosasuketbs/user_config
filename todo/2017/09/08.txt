@@ -1,0 +1,14 @@
+﻿99
+0
+[Sep2017] Free Lancing
+original Windows 7 Ultimate (at inha, finally)
+Windows 8.1 Pro (at bilbo, finally)
+restore Ubuntu 17.04
+restore macOS Sierra 10.12.6
+reinstall Windows 10
+analysis PCDraft fixes and implementations
+quotes PCDraft fixes and implementations
+start of first phase of Flight Gauge Prober
+
+
+

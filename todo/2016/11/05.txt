@@ -1,0 +1,4 @@
+﻿0
+0
+Windows: fixing tons of ca2 bugs
+

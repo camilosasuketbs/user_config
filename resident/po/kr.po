@@ -1,0 +1,195 @@
+﻿msgid "%name, Some supported commands !help, !about and !want the bot"
+msgstr "%name,몇 가지 지원 되는 commands !도움말, !about 과  !bot이 되고 싶다"
+
+msgid "%name, song not playing or not in record."
+msgstr "%name, 재생되지 않는 노래 또는 녹음되지 않는 노래"
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgstr "%name,현재 재생되고 있는 노래는 \"%토픽\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgstr "%name, 도움말 정보가 in:\n!유틸 도움말\n!도움말 정보\n!도움말 설정\n 그리고\n!도움말 미디어 에 그룹화 되었있습니다."
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgstr "%name, command 도움말이 \n!commands 정보\n!commands 설정\n 그리고 \n!commands 미디어 에 그룹화 되어있습니다."
+
+msgid " settings commands are:"
+msgstr " 설정 commands 입니다."
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgstr "!이름설정 \"이름\"\n!언어설정 \"국가 코드\"\n 그리고 \n!영역설정 \"시간지역\"" 입니다.
+
+msgid " multimedia commands are:"
+msgstr " 멀티미디어 커맨드 입니다."
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgstr "!rr\n!잘못 걸어둔 링크\n!말합니다 \"텍스트\"\n!플레이리스트\n 그리고\n!재생 \"소리\"" 입니다.
+
+msgid " some utility commands:"
+msgstr " 몇몇 유틸리티 커맨드는" 입니다.
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgstr "!urbd \"어반 사전 쿼리\"\n!at \"구글 자동 검색\"\n 그리고\n!t \"언어\" \"텍스트를 언어로 번역합니다\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgstr "%name, !rr 또는 ASCII 애니메이션과 함께 Rick Astley 에 공연된 "Never Gonna Give You Up"이 실행됩니다.""
+
+msgid "%name, Use this command to get special tips"
+msgstr "%name, 특별한 팁을 얻기 위해 이 커맨드를 사용하세요"
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgstr "%name, 제공된 텍스트를 말하기 위해서 윈도우 나레이터를 사용하라고 말하세요"
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgstr "%name, ide \"platform\"은 ca2 프레임워크와 특수한 플랫폼에 사용된 앱 \"platform\"은 아마도: Windows (Desktop), Linux, MacOS, iOS, Android and WinRT. 에 대해 보여줍니다"
+          
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgstr "%name, setlang \"코드 언어와 그리고/또는 두 글자 국가 코드\". 사용자가 선호하는 언어로 설정하세요." 봇은 가능한 많이 선택된 언어로 말합니다.""
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgstr "%name, 대문자화하고 공백을 두며 별명 혹은 이름에 맞는 사용자 이름을 설정되도록 setname 커맨드를 사용하세요. 그것은 텍스트를 음성으로 변환될 때 더 좋은 발음을 만들 수 있습니다."
+
+msgid " information retrieval commands are:"
+msgstr " 정보 검색 커맨드는 ~이다:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits" 		
+msgstr "!IDE \"플랫폼\"\n!도움말 \"command\"\n!cmdtips\n!about\n!want the bot\nen\n!credits" 
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, 윈도우 데스크탑 소프트웨어 개발, ca2 비주얼 스튜디오 2015 커뮤니티 버전, SmartSVN, To전toiseSVN en WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgstr "%name, 리눅스 소프트웨어 개발, ca2 Ubuntu %topic, Code::Blocks 과 SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgstr "%name, ca2는 MacOS에서 El Capitan, XCode 를 SmartSVN 사용합니다."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgstr "%name, iOS 개발,ca2 Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator 그리고 iOS 장비를 빌려주는 공동 창업자가 확인되었는 지 알아보고 있다."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgstr "%name, voor Android ontwikkeling gebruikt ca2 는 Windows met Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator 갤럭시 탭3와 안드로이드를 사용합니다.."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, 윈도우 스토어 앱개발, ca2는 Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN 와 WinMerge 를 사용합니다."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgstr "%name, 느낌표, 만약에 존재하는 커맨드를 찾을 수 없다면, 오디오 클립이 !playlist에 실행되고 있습니다. 일치하는 오디오 클립을 찾을 수 없다면, 텍스트는 !say <text>와 같이 텍스트로 실행됩니다."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgstr "%name, ca2는 접근성이 좋은 멀티 플랫폼 프래임 워크와 개발자가 사용자를 위해 좋은 앱을 만들 수 있는 C++ 언어로 된 라이브러리 설정이 됩니다."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation."
+msgstr "%name 존재와 관심. \nxmeterix xmxstudio API.\nLivecoding.TV API 그리고 웹사이트.\n\nVapaamies 러시아 번역.\nr00tkiller 프랑스 번역.\nCatherina Cortega 네덜란드 번역.\nfuel and andremommert 독일어 번역.\nPawel Kulesza 폴란드어 번역.\nha10word 번체 중국어 번역"
+
+msgid "%name, your language is set to %topic"  
+msgstr "%name, 당신의 언어는 %topic로 설정되었다."
+
+msgid "%name, your language was set to \"%topic\""
+msgstr "%name, 당신의 언어는 \"%topic\로 설정되었다.""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgstr "%name, 당신의 시간은 UTC %topic로 설정되었다." 
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgstr "%name, 당신의 시간은 \"%topic\로 설정되었다"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgstr "사실은, 현재\"잘모르는 시간구역\". ca2에게 이것을 말하거나 (하지 않기)."
+
+msgid "%name, your time zone is set to %topic"
+msgstr "%name,당신의 시간구역은 %topic로 설정되었다."
+
+msgid "%name, your language was set to %topic"
+msgstr "%name, uw taal is ingesteld op %topic"
+
+msgid "and your country was set to %topic"
+msgstr "그리고 당신의 국가는 %topic로 설정되었다."
+
+msgid "%name , Currently only the client will be made available."
+msgstr "%name, 현재 클라이언트만이 사용할 수 있도록 만들어졌습니다."
+
+msgid "No files in the playlist"
+msgstr "이 재생목록에 파일이 없습니다."
+
+msgid " gone, uff..."
+msgstr "떠났네요, 에효..."
+         
+msgid "Bye %name! :("
+msgstr "잘가요 %name! :("
+
+msgid "See you %name! :("
+msgstr "나중에 봐요 %name! :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgstr "%name, is 들어왔습니다.!! (사용가능한 커맨드 서브셋)."
+
+msgid "%name you are connected!";
+msgstr "%name 당신은 접속 되었습니다!";
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgstr "<emph>환영합니다 %name! :) %param1</emph> 도움을 얻고 싶으면 느낌표를 사용하세요."
+
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgstr "안녕하세요 %name! 환영합니다! %param1 오늘 여기에 무엇을 얻고자 하나요?"
+
+msgid "%name is back! :)"
+msgstr "%name이 돌아왔습니다! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgstr "당신을 환영합니다, %name! 팔로우 해주셔서 감사합니다!"
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgstr "새로운 팔로워를 위한 Rick Roll 오프닝 노래!!"
+
+msgid "Opening Rick Roll for you!!"
+msgstr "당신을 위한 Rick Roll 오프닝 노래!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "%name, 오프닝 노래 Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "오프닝 노래 Rick Astley - Never Gonna Give You Up!"
+
+msgid "The country of %name is unknown"
+msgstr "잘 모르는 %name 국가 이름"
+
+msgid "The country of %name is \"%topic\""
+msgstr "%name의 국가는 \"%topic\ 입니다"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgid "%name 당신은 Visual Studio 2015(커뮤니티 버전) 이 필요합니다. SVN(서브버전) 클라이언트와 저장소 접근(이메일 주소 필요) 세부사항은 Camilo에게 문의하세요"
+
+msgid "%name, it is \"%topic\""
+msgstr "%name, 그것은 \"%topic\" 입니다."
+
+msgid "%name, it is \"%topic\" for %param1."
+msgstr "%name, %param1 의 \"%topic\"은 입니다."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgstr "%d/%m/%Y %H:%M:%S"
+
+msgid "hour/minutes/seconds"
+msgstr "시/분/초"
+
+msgid "%name, your country code is set to \"%topic\""
+msgstr "%name, 당신의 국가 코드는 \"%topic\" 입니다."
+
+msgid "%name, country code of %param1 is \"%topic\""
+msgstr "%name, %param1 의 국가코드는 \"%topic\" 입니다."
+
+msgid "(No Results)"
+msgstr "(결과 없음)"
+
+msgid "%name, the weather at %param1 is %topic."
+msgstr "%name,%param1의 날씨는 %topic 입니다."
+
+msgid "%name, your current weather is %topic."
+msgstr "%name,당신의 현재 날씨는 %topic 입니다."
+
+msgid "%name, the weather for %param2 at %param1 is %topic."
+msgstr "%name,%param2의 날씨 %param1: %topic."
+
+
+
+

@@ -1,0 +1,5 @@
+1
+0
+ca2 FTP Client (MVP : ls)
+ChatBot, AudioPlayer etc Debugging
+Finished

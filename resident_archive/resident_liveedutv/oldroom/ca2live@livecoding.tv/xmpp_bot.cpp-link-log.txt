@@ -1,0 +1,2 @@
+﻿LINK : fatal error LNK1181: cannot open input file 'C:/xcore/time/intermediate/x64/basis/xmpp_resident/C/Users/camilo/AppData/Roaming/ca2/system/config/xmpp_resident/room/ca2live@livecoding.tv/xmpp_bot/xmpp_bot.obj'
+

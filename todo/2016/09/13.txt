@@ -1,0 +1,20 @@
+0
+0
+Porting third party dependencies.
+Porting ca2.cc/applications to Android
+-Basic Applications
+--Hello Multiverse!!
+--Flag
+--Alphaclock
+--Clockverse
+--Projection
+--RDP Client
+-Multimedia Applications
+--Waven
+--verisimplevideo
+--veriwell Musical Player lite
+-Utilities
+--Address Book
+--verilux
+--verifile
+--veriedit

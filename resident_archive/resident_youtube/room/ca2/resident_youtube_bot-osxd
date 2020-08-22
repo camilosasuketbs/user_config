@@ -1,0 +1,4 @@
+cp %TARGET_PATH%.dylib %DSYM_PATH%.dylib
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil %TARGET_PATH%.dylib -o %DSYM_PATH%.dylib.dSYM
+
+

@@ -1,0 +1,50 @@
+﻿Odense2.000000(da)
+UTC0.000000(en)
+Curitiba-3.000000(pt)
+東京9.000000(ja)
+Baltimore-5.000000(en)
+Seattle-8.000000(en)
+Stockholm2.000000(se)
+上海8.000000(cn)
+Москва3.000000(ru)
+Київ2.000000(uk-ua)
+London1.000000(en-uk)
+Paris2.000000(fr)
+Padova2.000000(it)
+Berlin2.000000(de)
+Zwijndrecht2.000000(nl)
+İstanbul3.000000(tr)
+नई दिल्ली5.500000(in)
+announce:hour:in:​%1 बजे %2 में
+announce:hour_oclock:en-uk:%1 hour o'clock at %2
+announce:hour_one_oclock:en-uk:%1 hour o'clock at %2
+announce:hour_zero_oclock:en-uk:0 hour o'clock at %2
+announce:hour:en-uk:%1 hour at %2
+announce:hour_one:en-uk:1 hour at %2
+announce:hour_zero:en-uk:0 hour at %2
+announce:pm:en:%3 PM at %2
+announce:pm_oclock:en:%3 o'clock PM at %2
+announce:pm_zero_oclock:en:twelve noon at %2
+announce:am:en:%3 AM at %2
+announce:am_oclock:en:%3 o'clock AM at %2
+announce:am_zero_oclock:en:twelve midnight at %2
+announce:pm:ja:%2で午後%3時
+announce:am:ja:%2で午前%3時
+announce:hour:se:%1 i %2
+announce:hour:it:%1 ore a %2
+announce:hour_oclock:pt:%1 horas em ponto em %2
+announce:hour_one_oclock:pt:%1 hora em ponto em %2
+announce:hour_zero_oclock:pt:0 horas em ponto em %2
+announce:hour:de:%1 Uhr in %2
+announce:hour:fr:%1 heures à %2
+announce:hour:pt:%1 horas em %2
+announce:hour:tr:%1 saat %2
+announce:hour_one:pt:1 hora em %2
+announce:hour_zero:pt:0 horas em %2
+announce:hour:uk-ua:%1 часов в %2
+announce:hour:ru:%1 часов в %2
+announce:hour:nl:%1 uur in %2
+announce:hour:da:%1 timer i %2
+digital
+tld=
+sel=

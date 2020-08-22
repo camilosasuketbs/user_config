@@ -1,0 +1,4 @@
+cp /Volumes/apple/archive/Xcode/DerivedData/mac-core-dlokoaqldyhrecayvcqtgjkzyuuh/Build/Products/Debug/resident.app/Contents/MacOS/libresident_youtube_bot.dylib /Volumes/apple/archive/Xcode/DerivedData/mac-core-dlokoaqldyhrecayvcqtgjkzyuuh/Build/Products/Debug/libresident_youtube_bot.dylib
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/apple/archive/Xcode/DerivedData/mac-core-dlokoaqldyhrecayvcqtgjkzyuuh/Build/Products/Debug/resident.app/Contents/MacOS/libresident_youtube_bot.dylib -o /Volumes/apple/archive/Xcode/DerivedData/mac-core-dlokoaqldyhrecayvcqtgjkzyuuh/Build/Products/Debug/libresident_youtube_bot.dylib.dSYM
+
+

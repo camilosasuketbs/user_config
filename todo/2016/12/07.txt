@@ -1,0 +1,9 @@
+﻿6
+0
+Todo
+Visual Studio 2017 RC
+VS2017: ca2 Core Applications
+VS2017: ca2 Basic Applications
+VS2017: ca2 Multimedia Applications
+VS2017: ca2 Utilities Applications
+Finished

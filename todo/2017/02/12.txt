@@ -1,0 +1,6 @@
+﻿2
+0
+Todo
+Offline Work
+EXIF Orientation Support
+Finished

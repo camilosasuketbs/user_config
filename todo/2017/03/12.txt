@@ -1,0 +1,8 @@
+﻿4
+0
+Todo
+store.ca2.cc should be browsable even if ca2 is not installed yet.
+veriedit Plain Text Editor and verifile File Manager
+store.ca2.cc should install a chosen application : sokoban
+ca2 Store March 2017
+Finished

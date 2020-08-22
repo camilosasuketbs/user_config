@@ -1,0 +1,5 @@
+<built-in>:1:10: fatal error: '/Users/camilo/Intermediates.noindex/PrecompiledHeaders/SharedPrecompiledHeaders/17518796165590596544/framework.h' file not found
+#include "/Users/camilo/Intermediates.noindex/PrecompiledHeaders/SharedPrecompiledHeaders/17518796165590596544/framework.h"
+         ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+warning: unable to open file /Users/camilo/Intermediates.noindex/app_core_resident_desktop.build/Debug/app_core_resident_desktop.build/Objects-normal/x86_64/resident_bot.dia for serializing diagnostics (No such file or directory) [-Wserialized-diagnostics]
+1 error generated.

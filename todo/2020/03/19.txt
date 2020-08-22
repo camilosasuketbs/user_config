@@ -1,0 +1,8 @@
+4
+0
+[March 2020] ca2 Framework
+-Windows Round
+--Audio Applications|menu://C:\basis\platform-windows\seed\metaseed\core_solutions_64.sln,C:\xcore
+---Todo|ca2project://basis/app-core/todo?action=open
+---Auraclick|ca2project://basis/app-core/auraclick?action=open
+---Auratype|ca2project://basis/app-core/auratype?action=open

@@ -1,0 +1,10 @@
+7
+0
+[March 2020] ca2 Framework
+-Windows Desktop : Lite and Broad Turn 
+--Basic Applications|menu://C:\basis\platform-windows\seed\metaseed\basic.sln,C:\xcore
+---Weather|ca2project://basis/app-core/weather?action=open
+--Audio Applications|menu://C:\basis\platform-windows\seed\metaseed\audio.sln,C:\xcore
+---Auraclick|ca2project://basis/app-core/auraclick?action=open
+---Auratype|ca2project://basis/app-core/auratype?action=open
+---Todo|ca2project://basis/app-core/todo?action=open

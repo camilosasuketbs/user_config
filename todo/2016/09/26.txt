@@ -1,0 +1,9 @@
+6
+1
+Google Protocol Buffers
+resident : Beam Online Game Controller (MVP)
+Todo Client Optimization :
+-Local File if Available
+-Prompt Screen Update on Change
+resident : Beam Online Game Controller (MVP2)
+Finished

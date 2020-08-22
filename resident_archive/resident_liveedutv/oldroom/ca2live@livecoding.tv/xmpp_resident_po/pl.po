@@ -1,0 +1,186 @@
+﻿msgid "Good Morning!"
+msgtext "Dzień dobry!"
+
+msgid "Good Afternoon!"
+msgtext "Dzień dobry!"
+
+msgid "Good Evening!"
+msgtext "Dobry wieczór!"
+
+msgid "Good Night!"
+msgtext "Dobranoc!"
+
+msgid "%name, Good Morning!"
+msgtext "%name, Dzień dobry!"
+
+msgid "%name, Good Afternoon!"
+msgtext "%name, Dzień dobry!"
+
+msgid "%name, Good Evening!"
+msgtext "%name, Dobry wieczór!"
+
+msgid "%name, Good Night!"
+msgtext "%name, Dobranoc!"
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgtext "%name, Veribot korzysta z następujących poleceń : !help, !about i !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgtext "%name, Utwór nie jest uruchomiony lub jest niedostępny"
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name odtwarzany utwór: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, Instrukcje są zgromadzone w:\n!help util\n!help info\n!help config\ni\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgtext "%name, Informacje dotyczące poleceń można znaleźć w:\n!commands info\n!commands config\n en \n!commands media ";
+
+msgid " settings commands are:"
+msgtext " Ustawienia poleceń:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"Imię\"\n!setlang \"kod kraju\"\n i \n!setzone \"strefa czasowa\""
+
+msgid " multimedia commands are:"
+msgtext " Instrukcje multimedialne:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"tekst\"\n!playlist\n i\n!odtwarzaj \"dźwięk\""
+
+msgid " some utility commands:"
+msgtext " Kilka użytecznych poleceń:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"słownik języka potocznego\"\n!at \"tłumacz google\"\n i\n!t \"język\" \"przetłumaczony tekst z języka\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr lub !rickroll odtwarza hit z lat 80-tych Never Gonna Give You Up Ricka Astleya z animacjami ASCII."
+
+msgid "%name, Use this command to get special tips"
+msgtext "%name, Użyj tego polecenia, by uzyskać porady."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, say użyj Narratora Windows, by odczytać wskazany tekst."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgtext "%name, ide \"platform\" pokaż informacje dotyczące narzędzi użytych przy tworzeniu aplikacji ca2 na różne platformy. \"platform\" może być: windows, linux, macos, ios, android i winrt."
+          
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgtext "%name, setlang \"język- kraju\" ustawia język preferowany przez użytkownika. Bot w miarę możliwości używa wybranego języka.
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, użyj tego polecenia, by ustawić lepszą nazwę użytkownika pasujacą do loginu lub imienia używając dużych znaków i spacji. Może to poprawić wymowę przy użyciu Text-To-Speech."
+
+msgid " information retrieval commands are:"
+msgtext " Polecenia dotyczące odzyskiwania informacji:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits" 		
+msgtext "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nen\n!credits" 
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, do tworzenia na Windowsie ca2 używa Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN oraz WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, do tworzenia na Linuxie ca2 używa Ubuntu %topic, Code::Blocks oraz SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, do tworzenia na MacOS ca2 używa El Capitan, XCode oraz SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, do tworzenia na iOS ca2 używa Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator i prób przekonania współzałożyciela do pożyczenia telefonu z systemem iOS."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, do tworzenia na Androida ca2 używa Windowsa z Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator dla Androida i Galaxy Tab 3."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, dla Windows Store App ca2 używa Windowsa, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN oraz WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, jeśli istniejące polecenie nie może zostać znalezione odtwarzany jest utwór z !playlist. Jeśli nie może on zostać znaleziony, odtwarzany jest tekst !say <text>."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 jest multiplatformowym frameworkiem korzystającym z bibliotek napisanych w C++ niosącym pomoc programistom w tworzeniu świetnych aplikacji dla użytkowników."
+
+msgid "%name, user info, user thumb, user country and user flag are supplied by xmetrix code, web api and web server and also Livecoding.tv API. Thank you, Vapaamies for Russian translation. Thank you, rootkiller for French translation. Thank you, Catherina Cortega, for dutch translation. Thank you, fuel and andremommert for German translation."
+msgtext "%name, dane użytkownika, narodowość użytkownika i flaga kraju są dostarczone przez xmetrix, web api i web server oraz Livecoding.tv API. Dziękuję, Vaapamies za tłumaczenie na język rosyjski. rootkiller za francuski, Catherina Cortega za holenderski, fuel i andremommert za niemiecki oraz PabloSJ za polski."
+
+msgid "%name, your language is set to %topic"  
+msgtext "%name, twój język jest ustawiony na %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgtext "%name, twój język był ustawiony na \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%name, twoja strefa czasowa jest ustawiona na UTC %topic" 
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, twoja strefa czasowa była ustawiona \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgtext "Niestety, ale strefa czasowa jest obecnie nieznana \"Unknown Time Zone\". Zażalenia kieruj pod adresem ca2 (lub nie)."
+
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, twoja strefa czasowa jest ustawiona na %topic"
+
+msgid "%name, your language was set to %topic"
+msgtext "%name, twój język był ustawiony na %topic"
+
+msgid "and your country was set to %topic"
+msgtext "uw Twója lokalizacja to %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgtext "%name, Obecnie dostępny będzie jedynie klient."
+
+msgid "No files in the playlist"
+msgtext "Na liście odtwarzania brakuje obecnie utworów."
+
+msgid " gone, uff..."
+msgtext "koniec, uff..."
+         
+msgid "Bye %name! :("
+msgtext "Żegnaj %name! :("
+
+msgid "See you %name! :("
+msgtext "Do zobaczenia %name! :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name, jest zalogowany!! (Subset of commands enabled)."
+
+msgid "%name you are connected!";
+msgtext "%name jesteś połączony!";
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgtext "<emph>Witaj %name! :) %param1</emph> Możesz postawić wykrzyknik i nacisnąć enter, by uzyskać pomoc."
+
+msgid "<emph>Hi %name! Welcome! %param1</emph> What brings you here today?"
+msgtext "<emph>Cześć %name! Witaj! %param1</emph> Co cię tu sprowadza?"
+
+msgid "%name is back! :)"
+msgtext "%name wrócił! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Nie ma za co, %name! Dziękuję!"
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Odtwarzam Rick Roll dla wszystkich nowych użytkowników!!"
+
+msgid "Opening Rick Roll for you!!"
+msgtext "Odtwarzam Rick Roll dla Ciebie!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, Odtwarzam Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Odtwarzam Rick Astley - Never Gonna Give You Up!"
+
+msgid "The country of %name is unknown"
+msgtext "Twój kraj %name jest nieznany."
+
+msgid "The country of %name is \"%topic\""
+msgtext "Nazwa kraju %name to %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgid "%name, będziesz potrzebować Visual Studio Code 2015 (przynajmniej Community Edition), SVN(Subversion) i dostępu do repozytoriów (działający e-mail jest konieczny). O szczegóły pytaj Camilo."
+

@@ -1,0 +1,198 @@
+﻿xmpp_bot.cpp
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(370): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(150): warning C4244: '=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(179): warning C4244: '=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(203): warning C4244: '+=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(478): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(478): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(478): error C2228: left of '.is_empty' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(478): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(499): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(499): error C2228: left of '.has_char' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(499): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(502): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(502): error C2227: left of '->get_user_lang' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(504): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(565): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(565): error C2660: 'call_async': function does not take 4 arguments
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib1.cpp(582): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(237): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(304): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(387): warning C4244: '=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(401): warning C4244: '+=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(407): warning C4244: '=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(421): warning C4244: '+=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(426): warning C4244: '=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_language.cpp(440): warning C4244: '+=': conversion from 'strsize' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_followers.cpp(5): warning C4244: 'initializing': conversion from 'count' to 'int', possible loss of data
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(6): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(7): error C2065: 'm_strTopicUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(30): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(32): error C3536: 'puser': cannot be used before it is initialized
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(32): error C2227: left of '->get_user_country_code' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(32): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(33): error C2227: left of '->get_user_lang' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(33): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(34): error C2227: left of '->get_user_time_zone' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(34): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(41): error C2227: left of '->set_user_data' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(41): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(42): error C2227: left of '->set_user_data' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(42): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(149): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(151): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(165): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(167): error C3536: 'puserOther': cannot be used before it is initialized
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(167): error C2227: left of '->get_user_country_code' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(167): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(168): error C2227: left of '->get_user_lang' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(168): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(169): error C2227: left of '->get_user_time_zone' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(169): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(176): error C2039: 'initial_locality_time_zone': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(176): error C2227: left of '->get_user_info' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(176): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(177): error C2227: left of '->set_user_data' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(177): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(178): error C2227: left of '->set_user_data' must point to class/struct/union/generic type
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot.cpp(178): note: type is 'int'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(13): error C2065: 'm_strTopicUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(17): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(27): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(37): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(52): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(66): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(66): error C2660: 'call_async': function does not take 4 arguments
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(187): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(212): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(212): error C2228: left of '.stra' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(236): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(236): error C2660: 'call_async': function does not take 4 arguments
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(955): error C2039: 'lctv_api_get': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1411): error C2039: 'broad_msg': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1417): error C2039: 'broad_msg': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): error C2228: left of '.CompareNoCase' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): error C2228: left of '.has_char' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1936): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1939): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(1945): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): error C2228: left of '.CompareNoCase' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): error C2228: left of '.has_char' must have class/struct/union
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2082): note: type is 'unknown-type'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2085): error C2065: 'm_strOther': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2091): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2131): error C2065: 'm_strUser': undeclared identifier
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2196): error C2039: 'time_zone': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_bot_x.cpp(2223): error C2039: 'utc_offset_string': is not a member of 'resident::application'
+
+c:\xcore\app-core\appseed\resident\resident_application.h(13): note: see declaration of 'resident::application'
+
+c:\users\camilo\appdata\roaming\ca2\system\config\xmpp_resident\room\ca2live@livecoding.tv\lib_pres.cpp(9): error C2065: 'm_strUser': undeclared identifier
+

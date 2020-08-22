@@ -1,0 +1,218 @@
+﻿msgid "Good Morning!"
+msgstr "早上好！"
+
+msgid "Good Afternoon!"
+msgstr "下午好！"
+
+msgid "Good Evening!"
+msgstr "晚上好！"
+
+msgid "Good Night!"
+msgstr "晚安！"
+
+msgid "%name, Good Morning!"
+msgstr "%name，晚安!"
+
+msgid "%name, Good Afternoon!"
+msgstr "%name，下午好!"
+
+msgid "%name, Good Evening!"
+msgstr "%name，晚上好!"
+
+msgid "%name, Good Night!"
+msgstr "%name，晚安!"
+
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgstr "%name, 輔助指令: !help, !about 和 !want the bot(這個機器人)"
+
+msgid "%name, song not playing or not in record."
+msgstr "%name, 歌曲沒有播放或不在紀錄內."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgstr "%name, 正在播放音樂: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgstr "%name, 幫助(help) 資訊都在:\n!help util\n!help info\n!help config\n和\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgstr "%name, 指令(commands) 的說明資訊都在:\n!commands info\n!commands config\n和\n!commands media ";
+
+msgid " settings commands are:"
+msgstr " 設定指令為:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgstr "!setname \"名稱\"\n!setlang \"國碼\"\n 和 \n!setzone \"時區\""
+
+msgid " multimedia commands are:"
+msgstr " 多媒體指令為:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgstr "!rr\n!rickroll\n!say \"文字\"\n!playlist\n 和\n!play \"音樂\""
+
+msgid " some utility commands:"
+msgstr " 工具指令為:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+remark "!urbd \"urban 字典查詢\"\n!用 \"google 自動翻譯\"\n 以及\n!t \"語言\" \"文字 從設定的lang翻譯\""
+msgstr "!urbd \"urban 字典查詢\"\n!at \"google 自動翻譯\"\n 以及\n!t \"語言\" \"文字 從設定的lang翻譯\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgstr "%name, !rr of !rickroll 以ASCII 動畫來播放80年代熱門歌曲 Rick Astley 的 Never Gonna Give You Up."
+
+msgid "%name, Use this command to get special tips"
+msgstr "%name, 使用這個指令可以得到特別提示."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgstr "%name, 說使用Windows Narrator來講這段文字."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgstr "%name, ide \"platform\" 顯示關於ca2框架與程式的開發工具相關資訊. \"platform\" 可以是: Windows (Desktop), Linux, MacOS, iOS, Android and WinRT."
+          
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgstr "%name, setlang \"語碼或國碼\" 用來設定使用者偏好的語言. 機器人會盡量以你選擇的語言講話."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgstr "%name, 用來設定偏好的使用者名稱, 暱稱, 或名字. 可以包括大小寫與空白. 這可以讓名字發音更加精確."
+
+msgid " information retrieval commands are:"
+msgstr " 資訊檢索的指令為:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits" 		
+msgstr "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\n和\n!credits" 
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, 在 Windows Desktop Software 的軟體開發環境, ca2 使用 Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN 以及 WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgstr "%name, 在 Linux Software 的軟體開發環境, ca2 使用 Ubuntu %topic, Code::Blocks 和 SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgstr "%name, 在 MacOS 的軟體開發環境, ca2 使用 El Capitan, XCode 和 SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgstr "%name, 在 iOS 的軟體開發環境, ca2 使用 Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator 和嘗試與 co-founder 借用 iOS 設備."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgstr "%name, 在 Android 的軟體開發環境, ca2 使用 Windows with Hyper-V, Visual Store 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android 和 Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, 在 Windows Store App 的軟體開發環境, ca2 使用 Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN和WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgstr "%name, 使用驚嘆號時, 如果找不到對應的指令, 會先從 !playlist 內尋找 audio clip 播放. 如果相關 audio clip 沒有找到, 那麼就會以文字的形式出現. 就如同是使用 !say <text> 這樣"
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgstr "%name, ca2 是一個各種平台的framework 以及利用C++撰寫的函式庫, 將幫助開發者可以幫使用者建立良好的apps."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation."
+remark "%name, user info, user thumb, user country and user flag are supplied by xmetrix code, web api and web server and also Livecoding.tv API. Thank you, Vapaamies for Russian translation. Thank you, rootkiller for French translation. Thank you, Catherina Cortega, for dutch translation. Thank you, fuel and andremommert for German translation. Thank you, ha10word for Traditional Chinese translation."
+msgstr ""
+
+msgid "%name, your language is set to %topic"  
+msgstr "%name, 你的語言已經設定成 %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgstr "%name, 你的語言是 \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgstr "%name, 你的時區是 UTC %topic" 
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgstr "%name, 你的時區是 \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgstr " 事實上, 這還是 \"Unknown Time Zone\". 可以叫 ca2 處理一下 (或 忽視)."
+
+msgid "%name, your time zone is set to %topic"
+msgstr "%name, 你的時區已經設定成 op %topic"
+
+msgid "%name, your language was set to %topic"
+msgstr "%name, 你的語言是 %topic"
+
+msgid "and your country was set to %topic"
+msgstr "你的國家已設定成 %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgstr "%name, 目前只有 client 可以使用."
+
+msgid "No files in the playlist"
+msgstr "播放清單內沒有檔案."
+
+msgid " gone, uff..."
+msgstr "gone, uff..."
+         
+msgid "Bye %name! :("
+msgstr "掰掰 %name! :("
+
+msgid "See you %name! :("
+msgstr "再見 %name! :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgstr "%name, 進入!! (部分的指令(commands)啟用)."
+
+msgid "%name you are connected!";
+msgstr "%name 你正在連線!";
+
+msgid "Welcome %name! :) %param1 Please, use exclamation mark to get help."
+msgstr "歡迎 %name! :) %param1 你可以透過輸入驚嘆號得到一些幫助."
+
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgstr "哈囉 %name! 歡迎! %param1 今天是什麼風把你吹來?"
+
+msgid "%name is back! :)"
+msgstr "%name 回來了! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgstr "不客氣, %name! 感謝你的追蹤!"
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgstr "為所有新追蹤的人開啟 Rick Roll!!"
+
+msgid "Opening Rick Roll for you!!"
+msgstr "為你開啟 Rick Roll!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "%name, 正在開啟 Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "正在開啟 Rick Astley - Never Gonna Give You Up!"
+
+msgid "The country of %name is unknown"
+msgstr "%name 的國家是 未知."
+
+msgid "The country of %name is \"%topic\""
+msgstr "%name 的國家是 %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgstr "%name, 你將會需要 Visual Studio 2015 (至少是 Community Edition), 一個 SVN (Subversion) client 和 repository 權限 (這邊需要工作使用的e-mail地址). 更詳細的內容可以與與 Camilo 詢問." 
+
+msgid ""
+msgstr ""
+
+
+
+msgid "name: %topic"
+msgstr "名稱：%topic"
+
+msgid "country code:"
+msgstr "國家代碼："
+
+
+msgid "country: %topic"
+msgstr "國家：%topic"
+
+msgid "city: %topic"
+msgstr "市：%topic"
+
+msgid "time:"
+msgstr "時間："
+
+msgid "weather:"
+msgstr "天氣："
+
+msgid "top scope:"
+msgstr "主要興趣："
+
+msgid "(unknown)"
+msgstr "（未知）"

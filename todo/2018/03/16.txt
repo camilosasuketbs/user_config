@@ -1,0 +1,192 @@
+﻿133
+0
+[Mar2018] macOS and Store (ca2 store)
+-Windows Desktop Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---[Blocking:aac@ffmpeg] Verisimplevideo
+---veriwell Musical Player lite
+---[Skip] veriwell Musical Player
+---auraverse
+--[Skip] Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+--[Skip] *Arcade Games(* new workload)
+---*Tic Tac Toe
+---*Tetris
+---*Arkanoid
+---*Sokoban
+---*Pacman
+--[Skip] *Core Games(* new workload)
+---*coincube
+---*arch001
+-[Skip] Windows Store Round
+--3rd party libraries
+---OpenSSL for Windows Store
+---FFMpeg for Windows Store
+---Other Libraries for Windows Store
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-macOS Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Chronometer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---[Partial] veriwell Musical Player
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-iOS Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[Skip]RDP Client
+---[Skip]Waven
+--[Skip]Multimedia Applications
+---[Skip]Waven
+---[Skip]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+--[Skip]Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---[Skip]verifile
+---[Skip]veriedit
+-Ubuntu Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[block:missing openssl 1.1 at ubuntu]RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---FFMpeg Build Task Force
+---Verisimplevideo
+---veriwell Musical Player lite
+---[Skip]auraverse
+--Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---verifile
+---[Skip]veriedit
+-Android Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows "Homerun"
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+Store
+Freelancing

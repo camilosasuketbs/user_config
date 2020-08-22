@@ -1,0 +1,161 @@
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgtext "%name, Några tillgängliga bot kommandon är: !help, !about och !want the bot"
+ 
+msgid "%name, song not playing or not in record."
+msgtext "%name, Ingen musik spelas, eller är tillgänglig."
+ 
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name, det aktuella spåret som spelas är: \"%topic\"."
+ 
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, hjälp information kategoriseras i:\n!help util\n!help info\n!help config\n och \n!help media"
+ 
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgtext "%name, kommando hjälp kategoriseras i:\n!commands info\n!commands config\n och \n!commands media"
+ 
+msgid " settings commands are:"
+msgtext " kommandon för inställningarna är:"
+ 
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"namn\"\n!setlang \"landskod\"\n och \n!setzone \"tidszon\""
+ 
+msgid " multimedia commands are:"
+msgtext " multimedia kommandon:"
+ 
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"text\"\n!playlist\n och\n!play \"ljud\""
+ 
+msgid " some utility commands:"
+msgtext " några användbara kommandon:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"översättning via Urban Dictionary\"\n!at \"översättning via Google\"\n och\n!t \"språk\" \"text för att översätta från språket\""
+ 
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr eller !rickroll spelar Never Gonna Give You Up av Rick Astley med ASCII animation."
+ 
+msgid "%name, Use this command to get special tips"
+msgtext "%name, använd detta kommando för att få speciella tips."
+ 
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, say använder Windows Narrator att läsa en given text högt."
+ 
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+vmsgtext "%name, ide \"platform\" visar information om de program som används för utveckling den ca2 framework och applikationer på denna plattform. \"platform\"  kan vara: Windows (Desktop), Linux, MacOS, iOS, Android och WinRT."
+ 
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgtext "%name, setlang \"språk- eller landskod\" ändrar språk för användaren. Boten kommer att tala till dig på ditt språk, så mycket som möjligt."
+ 
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, använd setname kommandot för att ställa in ett bättre användarnamn."
+ 
+msgid " information retrieval commands are:"
+msgtext " Informationssökning är möjligt använder dessa kommandon:"
+ 
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits"
+msgtext "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\noch\n!credits"
+ 
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, på Windows Desktop använder ca2 Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN och WinMerge."
+ 
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, på Linux använder ca2 Ubuntu %topic, Code::Blocks och SmartSVN."
+ 
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, på MacOS använder ca2 El Capitan, XCode och SmartSVN."
+ 
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, på iOS använder ca2 Mac OS X El Capitan, XCode, SmartSVN och XCode iOS simulator."
+ 
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, för Android använder ca2 Windows med Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator Android och Galaxy Tab 3."
+ 
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, för Windows Store App använder ca2 Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN och WinMerge."
+ 
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, ett utropstecken med en okänd kommando resulterar i ett audio clip spelas upp från !playlist. Om en ljudklipp inte hittas, visas texten som !say <text>."
+ 
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 är en multi-plattform framework för många ändamål. Ca2 är en samling av bibliotek, skrivet i programmeringsspråket C ++ och speciellt sammansatt för att hjälpa utvecklare att skapa utmärkta programvara."
+ 
+msgid "%name, user info, user thumb, user country and user flag are supplied by xmetrix code, web api and web server and also Livecoding.tv API. Thank you, Vapaamies for Russian translation. Thank you, rootkiller for French translation. Thank you, Catherina Cortega, for dutch translation. Thank you, fuel and andremommert for German translation."
+msgtext "%name, användarinformation , bild, land och flagga för användaren kommer från xmetrix kod, web api och web server. Tack vare Vapaamies för den ryska översättningen. Tack vare r00tkiller för franska översättningen. Tack vare catherinacortega för den holländska och svenska översättning . Tack vare andremommert för några tyska översättningar. Flera andra översättningar kommer från Google."
+ 
+msgid "%name, your language is set to %topic"
+msgtext "%name, ditt språk är inställd på %topic"
+ 
+msgid "%name, your language was set to \"%topic\""
+msgtext "%name, ditt språk är inställd på \"%topic\""
+ 
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%name, ditt tidszon är inställd på UTC %topic"
+ 
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, ditt tidszon är inställd på \"%topic\"."
+ 
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgtext "Egentligen är det för närvarande \"Unknown Time Zone\". Ropa på ca2 (eller inte)."
+ 
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, din tidszon är inställd på %topic"
+ 
+msgid "%name, your language was set to %topic"
+msgtext "%name, ditt språk är inställd på %topic"
+ 
+msgid "and your country was set to %topic"
+msgtext "och ditt land är satt till %topic"
+ 
+msgid "%name , Currently only the client will be made available."
+msgtext "%name, vid denna tid görs endast klienten tillgänglig."
+ 
+msgid "No files in the playlist"
+msgtext "Inga filer i spellistan."
+ 
+msgid " gone, uff..."
+msgtext "adjö, uff..."
+ 
+msgid "Bye %name! :("
+msgtext "Hej då %name! :("
+ 
+msgid "See you %name! :("
+msgtext "Ses snart %name! :("
+ 
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name, klev in!! (Delmängd av kommandon aktiverad)."
+ 
+msgid "%name you are connected!";
+msgtext "%name du är nu ansluten!";
+ 
+msgid "Welcome %name! :) %param1 Please, use exclamation mark to get help."
+msgtext "Välkommen %name! :) %param1 Du kan skriva ett utropstecken och tryck enter för hjälp."
+ 
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgtext "Hej %name! Välkommen! %param1 Vad ger äran till ditt besök idag?"
+ 
+msgid "%name is back! :)"
+msgtext "%name är tillbaka! :)"
+ 
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Ingen orsak, %name! Tack så mycket för att du prenumererar!"
+ 
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Rick Roll spelar för alla nya personer som prenumererar !!!!"
+ 
+msgid "Opening Rick Roll for you!!"
+msgtext "Rick Roll spelas för dig!"
+ 
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, Öppnar Rick Astley - Never Gonna Give You Up!"
+ 
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Öppnar Rick Astley - Never Gonna Give You Up!"
+ 
+msgid "The country of %name is unknown"
+msgtext "Landet %name är okänt."
+ 
+msgid "The country of %name is \"%topic\""
+msgtext "Landet %name är %topic"
+ 
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgid "%name, du behöver Visual Studio 2015 (åtminstone Community Edition), en SVN (Subversion) klient och repository access (en fungerande e-mailadress). Prata med Camilo för mer information."

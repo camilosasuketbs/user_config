@@ -1,0 +1,30 @@
+28
+1
+Final Home Round
+Porting Third Party dependencies.
+Porting Applications to Windows
+-Core Applications
+--Aura Click
+--Aura Type
+--Timer
+--Resident
+--Weather
+--Waven
+-Basic Applications
+--Hello Multiverse!!
+--Flag
+--Alphaclock
+--Clockverse
+--Projection
+--RDP Client
+-Multimedia Applications
+--Waven
+--verisimplevideo
+--veriwell Musical Player lite
+-Utilities
+--Address Book
+--verilux
+--verifile
+--veriedit
+docs.ca2.cc mvp
+Finished

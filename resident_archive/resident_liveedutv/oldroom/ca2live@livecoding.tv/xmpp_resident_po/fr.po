@@ -1,0 +1,188 @@
+msgid "Good Morning!"
+msgtext "Bonjour!"
+
+msgid "Good Afternoon!"
+msgtext "Bonjour!"
+
+msgid "Good Evening!"
+msgtext "Bonsoir!"
+
+msgid "Good Night!"
+msgtext "Bonne nuit!"
+
+msgid "%name, Good Morning!"
+msgtext "%name, Bonjour!"
+
+msgid "%name, Good Afternoon!"
+msgtext "%name, Bonjour!"
+
+msgid "%name, Good Evening!"
+msgtext "%name, Bonsoir!"
+
+msgid "%name, Good Night!"
+msgtext "%name, Bonne nuit!"
+
+msgid "%name, Some supported commands !help, !about and !vaimepassarobot?"
+msgtext "%name, quelques commandes disponibles !help, !about et !vaimepassarobot?"
+
+msgid "%name, song not playing or not in record."
+msgtext "%name, aucun titre n'est joué ou disponible."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name, le titre actuellement joué est: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, l'aide est disponible grâce à:\n!help util\n!help info\n!help config\n et\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgtext "%name, l'aide pour les commandes est disponible grâce à:\n!commands info\n!commands config\n et\n!commands media"
+
+msgid " settings commands are:"
+msgtext " les commandes de configuration sont:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"nom\"\n!setlang \"code de pays\"\n et\n!setzone \"zone horaire\""
+
+msgid " multimedia commands are:"
+msgtext " les commandes multimédias sont:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"texte\"\n!playlist\n et\n!play \"sound\""
+
+msgid " some utility commands:"
+msgtext " Quelques commands partiques:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"requête du dictionnaire familier\"\n!at \"traduction automatique google\"\n et\n!t \"langue\" \"texte à traduire depuis la langue spécifiée\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr ou !rickroll lance le hit des années 80, Never Gonna Give You Up par Rick Astley avec une animation ASCII."
+
+msgid "%name, Use this command to get special tips"
+msgtext "%name, utilise cette command pour recevoir des conseils spéciaux"
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, la commande say utilise le Narrateur Windows pour énoncer un texte spécifié"
+
+msgid "%name, ide <platform> display information about tools used for development of ca2 framework and apps at the specified platform. <platform> may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgtext "%name, ide <plateforme> affiche des informations à propos des outils utilisés pour le développement du framework en fonction de la plateforme spécifiée. <plateforme> peut être windows(Bureau), linux, macos, ios, android et winrt."
+          
+msgid "%name, setlang <language code and/or two-letter country code> sets user preferred language. Communication is preferrably done using specified language or country."
+msgtext "%name, setlang <code du pays> défini votre langue favorite. Les messages vous seront envoyés dans cette langue si possible"
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, setname vous permet de définir un meilleur nom d'utilisateur, avec des majuscules et espaces comme souhaité. Cela peut également permettre d'améliorer la prononciation du Narrateur Windows."
+
+msgid " information retrieval commands are:"
+msgtext " les commandes pour recevoir des informations sont:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits" 		
+msgtext "!ide \"plateforme\"\n!help \"commande\"\n!cmdtips\n!about\n!vaimepassarobot?\net\n!credits"
+
+msgid "%name, , For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, pour le développement Windows (Bureau), ca2 utilise Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN et WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, pour le développement Linux, ca2 utilise Ubuntu %topic, Code::Blocks et SmartSVN."
+
+msgid "%name, , At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, pour le développement MacOs, ca2 utilise El Capitan, XCode et SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, pour le développement iOs, ca2 utilise MacOs X El Capitan, XCode, SmartSVN, XCode iOs simulator et un iPad Mini."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, pour le développement Android, ca2 utilise Windows avec Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android et une Galaxy Tab 3 (gagné à la tombola)."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, pour le développement d'applications Windows Store, ca2 utilise Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN et WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, avec un point d'exclamation, si aucune commande n'est trouvée, un clip audo est joué depuis la !playlist. Si aucun clip audio n'est trouvé, le texte est énoncé comme avec la commande !say <texte>"
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 est une libraire tout usage multi-plateforme et un ensemble de librairies écrites en C++ afin d'aider les développeurs à créer d'incroyables applications pour leurs utilisateurs."
+
+msgid "%name, user info, user thumb, user country and user flag are supplied by xmetrix code, web api and web server and also Livecoding.tv API. Thank you, Vapaamies for Russian translation. Thank you, rootkiller for French translation. Thank you, Catherina Cortega, for dutch translation. Thank you, fuel and andremommert for German translation."
+msgtext "%name, les avatars, pays, et drapeaux des utilisateurs sont fournis grâce au code, à l'api et au serveur HTTP de xmetrix. Merci à Vapaamies pour la traduction russe. Merci à r00tkiller pour la traduction française. Merci à catherinacortega pour la traduction néerlandaise. Merci à andremommert pour un bout de la traduction allemande."
+
+msgid "%name, your language is set to %topic"
+msgtext "%name, votre langue est %topic"
+
+msgid "%name, your language was set to \"%topic\"";
+msgtext "%name, votre langue a été définie à \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%anem, votre zone horaire a été définie à %topic UTC"
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, votre zone horaire a été définie à \"%topic\""
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not).";
+msgtext " Actuellement, elle est défini comme \"Zone horaire inconnue\". Criez sur ca2 pour ça (ou pas)."
+
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, votre zone horaire est %topic"
+         
+msgid "%name, your language was set to %topic"
+msgtext "%name, votre langue a été définie à %topic"
+
+msgid "and your country was set to %topic"
+msgtext "et votre pays a été défini à %topic"
+
+msgid "%name, Currently only the client will be made available."
+msgtext "%name, actuellement, seul le client sera disponible."
+
+msgid "No files in the playlist"
+msgtext "Aucun fichier dans la playlist"
+
+msgid " gone, uff..."
+msgtext " parti, pff...."
+         
+msgid "Bye %name! :("
+msgtext "Au revoir %name :("
+
+msgid "See you %name! :("
+msgtext "À bientôt %name! :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name a rejoint!! (Sous-ensemble de commandes activé)."
+
+msgid "%name you are connected!"
+msgtext "%name tu es connecté!"
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgtext "<emph>Bienvenue %name! :) %param1</emph> Tu peux écrire un point d’exclamation puis pressé Entrer pour recevoir de l'aide."
+
+msgid "<emph>Hi %name! Welcome! %param1</emph> What brings you here today?"
+msgtext "<emph>Hey %name! Bienvenue! %param1</emph> Qu'est ce qui t'amène ici aujourd'hui?"
+
+msgid "%name is back! :)"
+msgtext "%name est de retour! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Bienvenue, %name! Merci pour le follow!"
+
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Ouverture de Rick Roll pour tous les nouveaux followers!!"
+
+msgid "Opening Rick Roll for you!!"
+msgtext "Ouverture de Rick Roll pour vous!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, ouverture de Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Ouverture de Rick Astley - Never Gonna Give You Up!"
+
+
+
+msgid "The country of %name is unknown"
+msgtext "The country of %name is unknown"
+
+msgid "The country of %name is \"%topic\""
+msgtext "Le pays de %name est \"%topic\""
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgtext "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+

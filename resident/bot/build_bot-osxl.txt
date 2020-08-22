@@ -1,0 +1,2 @@
+clang: error: no such file or directory: '/Users/camilo/Products/Debug/libapp_core_resident_client.dylib'
+clang: error: no such file or directory: '/Users/camilo/Products/Debug/libapp_core_resident_desktop.dylib'

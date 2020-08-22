@@ -1,0 +1,1 @@
+/Volumes/apple/archive/Xcode/DerivedData/mac-basic-caxyyviwzifqstgyxyuknmbfgwzt/Build/Products/Debug/Alphaclock.app/Contents/MacOS/Alphaclock

@@ -1,0 +1,5 @@
+/youtube_token_bot.txt
+/youtube_token_cli.txt
+/youtube_token_resident.txt
+*.cpp-compile-log.txt
+*.cpp-link-log.txt

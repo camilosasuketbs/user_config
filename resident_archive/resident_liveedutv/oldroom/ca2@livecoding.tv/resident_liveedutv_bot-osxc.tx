@@ -1,0 +1,3 @@
+fatal error: file '/xcore/app-core/appseed/resident/../../../nodeapp/seed/metaseed/../../../app/appseed/aura/aura/message/message_user.h' has been modified since the precompiled header '/archive/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders/framework-azftxoaoskcbqrgyenlyjpedundw/framework.h.pch' was built
+note: please rebuild precompiled header '/archive/DerivedData/Build/Intermediates.noindex/PrecompiledHeaders/framework-azftxoaoskcbqrgyenlyjpedundw/framework.h.pch'
+1 error generated.

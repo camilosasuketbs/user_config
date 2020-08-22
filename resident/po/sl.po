@@ -1,0 +1,206 @@
+﻿msgid "Good Morning!"
+msgstr "Dobro jutro!"
+
+msgid "Good Afternoon!"
+msgstr "Lepo popoldne!"
+
+msgid "Good Evening!"
+msgstr "Dober Večer!"
+
+msgid "Good Night!"
+msgstr "Lahko noč!"
+
+msgid "%name, Good Morning!"
+msgstr "%name, Dobro Jutro!"
+
+msgid "%name, Good Afternoon!"
+msgstr "%name, Lepo popoldne!"
+
+msgid "%name, Good Evening!"
+msgstr "%name, Dober Večer!"
+
+msgid "%name, Good Night!"
+msgstr "%name, Lahko Noč!"
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgstr "%name, Podprte komande (pomoč, več informacij, hočem bota) !help, !about in !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgstr "%name, pesem se ne predvaja ali pa ni na voljo."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgstr "%name, trenutno se predvaja: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgstr "%name, pomoč je v kategorijah:\n!help util\n!help info\n!help config\n en\n!help media"
+
+msgid " settings commands are:"
+msgstr " nastavitvene komande so:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgstr "!setname \"ime\"\n!setlang \"koda države\"\n si \n!setzone \"časovna zona\""
+
+msgid " multimedia commands are:"
+msgstr " multimedijske komande so:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgstr "!rr\n!rickroll\n!say \"tekst\"\n!playlist\n en\n!play \"zvok\""
+
+msgid " some utility commands:"
+msgstr " dodatne komande:"
+
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgstr "!urbd \"Urban Dictionary iskanje\"\n!at \"Google Translate prevod\"\n in\n!t \"jezik\" \"tekst za erevod iz jezika\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgstr "%name, !rr of !rickroll se predvaja hit iz 80tih Never Gonna Give You up od Rick Astley z ASCII animacijo."
+
+msgid "%name, Use this command to get special tips"
+msgstr "%name, Uporabi to komando za dodatne nasvete."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgstr "%name, say uporablja Windows pripovedovalec za narek teksta."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgstr "%name, IDE \"platform\" informacije o orodjih uporabljenih za razvoj ca2 programa in applikacij na določeni platformi. \"platform\" možne platforme: Windows (Namizni), Linux, MacOS, iOS, Android and WinRT."
+
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgstr "%name, setlang \"koda jezika in/ali dvoštevilčna koda države\" nastavi uporabniku priljubljen jezik. Bot govori v izbranem jeziku kolikor je možno."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgstr "%name, uporabi setname komando za drugo uporabniško ime, vzdevek ali ime. Pravilna kapitalizacija in razmak da boljši rezulatat za Tekst-V-Govor."
+
+msgid " information retrieval commands are:"
+msgstr " komande za povratne informacije so:"
+
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits"
+msgstr "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nen\n!credits"
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, Za razvoj Windows Desktop programske opneem ca2 uporablja Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN in WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgstr "%name, Za razvoj Linux programske opreme ca2 uporablja Ubuntu %topic, Code::Blocks in SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgstr "%name, Za MacOS, ca2 uporablja El Capitan, XCode in SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgstr "%name, za razvoj iOS applikacij ca2 uporablja Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator in si izposodi iOS napravo od soustanovitelja."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgstr "%name, za razvoj Android aplikacij ca2 uporablja Windows z Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator za Android in Galaxy Tab 3."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, za razvoj Windows Store App ca2 uporablja Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN in WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgstr "%name, Glede klicaja, če komanda ni podprta, pesem se predvaja iz !playlist. Če desem ni najdena se predvaja tekst kot z !say <tekst>."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgstr "%name, ca2 je več-platformna knjižnica programske opreme napisane v C++ programskem jeziku v pomoč razvijalcem za ustvarjanje odličnih applikacij za uporabnike."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation.\nMarko Žel Slovenian translation"
+msgstr "%name, contributerji. \nxmetrix xmxstudio API.\nLivecoding.TV API in spletna stran.\nVapaamies rusk prevod.\nr00tkiller francoski prevod.\nCatherina Cortege nizozemski prevod.\nfuel in andremommert nemški prevod.\nPawel Kulesza polski prevod.\nha10word tradicionalni kitajski prevod\nMarko Žel slovenski prevod."
+
+msgid "%name, your language is set to %topic"
+msgstr "%name, jezik je nastavljen na %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgstr "%name, jezik je nastavljen na \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgstr "%name, časovni pas je nastavljen na UTC %topic"
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgstr "%name, časovni pas je nastavljen na \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgstr "Vbistvu je trenutno \"Unknown Time Zone\". Kregaj se na ca2 za to (ali pa ne)."
+
+msgid "%name, your time zone is set to %topic"
+msgstr "%name, časovni pas je nastavljen na %topic"
+
+msgid "%name, your language was set to %topic"
+msgstr "%name, jezik je nastavljen na %topic"
+
+msgid "and your country was set to %topic"
+msgstr "in tvoja država je nastavljena na %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgstr "%name, Trenutno bo samo klient na voljo."
+
+msgid "No files in the playlist"
+msgstr "Ni vsebine v seznamu predvajanja."
+
+msgid " gone, uff..."
+msgstr " odstranjen, uff..."
+
+msgid "Bye %name! :("
+msgstr "Adijo %name! :("
+
+msgid "See you %name! :("
+msgstr "Kasneje, %name! :("
+
+msgid "%name, entered!! (Subset of commands enabled)."
+msgstr "%name, je vstopil/a!! (Subset of commands enabled)."
+
+msgid "%name you are connected!";
+msgstr "%name si povezan/a!";
+
+msgid "Welcome %name! :) %param1 Please, use exclamation mark to get help."
+msgstr "Dobrodošel/a %name! :) %param1 Vtipkaj klicaj in pritisni "enter" za pomoč."
+
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgstr "Zdravo %name! Dobrodošel/a! %param1 Kaj te je prineslo sem?"
+
+msgid "%name is back! :)"
+msgstr "%name se je vrnil/a! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgstr "Prosim, %name! Hvala za sledenje!"
+
+msgid "Opening Rick Roll for you all new followers!!"
+msgstr "Bom predvajal Rock Roll za vie nove sledilce!!"
+
+msgid "Opening Rick Roll for you!!"
+msgstr "Predvajam Rick Roll za tebe!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "%name, Predvajam Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "Predvajam Rick Astley - Never Gonna Give You Up!"
+
+msgid "%name, your country is unknown"
+msgstr "%name, tvoja država je neznana"
+
+msgid "%name, your country is set to \"%topic\""
+msgstr "%name, drżava nastavljena na \"%topic\""
+
+msgid "%name, country of %name is unknown"
+msgstr "%name, država z imenom %name je neznana."
+
+msgid "%name, country of %name is \"%topic\""
+msgstr "%name, država od %name je %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgstr "%name, potrebuješ: Visual Studio 2015 (najmanj Community Edition), SVN (Subversion) klient in dostop do ca2 repositorija (delujoč email näslov potreben). Kontaktiraj Camila za več informacij."
+
+msgid "%name, it is \"%topic\""
+msgstr "%name, je \"%topic\""
+
+msgid "%name, it is \"%topic\" for %param1."
+msgstr "%name, čas je \"%topic\" za %param1."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgstr "%d/%m/%Y %H:%M:%S"
+
+msgid "hour/minutes/seconds"
+msgstr "ur/minut/sekund"
+
+msgid "%name, your country code is set to \"%topic\""
+msgstr "%name, koda države je nastavljena na \"%topic\""
+
+msgid "%name, country code of %param1 is \"%topic\""
+msgstr "%name, koda države od %param1 je \"%topic\""

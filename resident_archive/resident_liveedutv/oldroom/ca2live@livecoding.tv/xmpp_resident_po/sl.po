@@ -1,0 +1,206 @@
+﻿msgid "Good Morning!"
+msgtext "Dobro jutro!"
+
+msgid "Good Afternoon!"
+msgtext "Lepo popoldne!"
+
+msgid "Good Evening!"
+msgtext "Dober Večer!"
+
+msgid "Good Night!"
+msgtext "Lahko noč!"
+
+msgid "%name, Good Morning!"
+msgtext "%name, Dobro Jutro!"
+
+msgid "%name, Good Afternoon!"
+msgtext "%name, Lepo popoldne!"
+
+msgid "%name, Good Evening!"
+msgtext "%name, Dober Večer!"
+
+msgid "%name, Good Night!"
+msgtext "%name, Lahko Noč!"
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgtext "%name, Podprte komande (pomoč, več informacij, hočem bota) !help, !about in !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgtext "%name, pesem se ne predvaja ali pa ni na voljo."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name, trenutno se predvaja: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, pomoč je v kategorijah:\n!help util\n!help info\n!help config\n en\n!help media"
+
+msgid " settings commands are:"
+msgtext " nastavitvene komande so:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"ime\"\n!setlang \"koda države\"\n si \n!setzone \"časovna zona\""
+
+msgid " multimedia commands are:"
+msgtext " multimedijske komande so:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"tekst\"\n!playlist\n en\n!play \"zvok\""
+
+msgid " some utility commands:"
+msgtext " dodatne komande:"
+
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"Urban Dictionary iskanje\"\n!at \"Google Translate prevod\"\n in\n!t \"jezik\" \"tekst za erevod iz jezika\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr of !rickroll se predvaja hit iz 80tih Never Gonna Give You up od Rick Astley z ASCII animacijo."
+
+msgid "%name, Use this command to get special tips"
+msgtext "%name, Uporabi to komando za dodatne nasvete."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, say uporablja Windows pripovedovalec za narek teksta."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgtext "%name, IDE \"platform\" informacije o orodjih uporabljenih za razvoj ca2 programa in applikacij na določeni platformi. \"platform\" možne platforme: Windows (Namizni), Linux, MacOS, iOS, Android and WinRT."
+
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgtext "%name, setlang \"koda jezika in/ali dvoštevilčna koda države\" nastavi uporabniku priljubljen jezik. Bot govori v izbranem jeziku kolikor je možno."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, uporabi setname komando za drugo uporabniško ime, vzdevek ali ime. Pravilna kapitalizacija in razmak da boljši rezulatat za Tekst-V-Govor."
+
+msgid " information retrieval commands are:"
+msgtext " komande za povratne informacije so:"
+
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits"
+msgtext "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nen\n!credits"
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, Za razvoj Windows Desktop programske opneem ca2 uporablja Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN in WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, Za razvoj Linux programske opreme ca2 uporablja Ubuntu %topic, Code::Blocks in SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, Za MacOS, ca2 uporablja El Capitan, XCode in SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, za razvoj iOS applikacij ca2 uporablja Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator in si izposodi iOS napravo od soustanovitelja."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, za razvoj Android aplikacij ca2 uporablja Windows z Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator za Android in Galaxy Tab 3."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, za razvoj Windows Store App ca2 uporablja Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN in WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, Glede klicaja, če komanda ni podprta, pesem se predvaja iz !playlist. Če desem ni najdena se predvaja tekst kot z !say <tekst>."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 je več-platformna knjižnica programske opreme napisane v C++ programskem jeziku v pomoč razvijalcem za ustvarjanje odličnih applikacij za uporabnike."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation.\nMarko Žel Slovenian translation"
+msgtext "%name, contributerji. \nxmetrix xmxstudio API.\nLivecoding.TV API in spletna stran.\nVapaamies rusk prevod.\nr00tkiller francoski prevod.\nCatherina Cortege nizozemski prevod.\nfuel in andremommert nemški prevod.\nPawel Kulesza polski prevod.\nha10word tradicionalni kitajski prevod\nMarko Žel slovenski prevod."
+
+msgid "%name, your language is set to %topic"
+msgtext "%name, jezik je nastavljen na %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgtext "%name, jezik je nastavljen na \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%name, časovni pas je nastavljen na UTC %topic"
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, časovni pas je nastavljen na \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgtext "Vbistvu je trenutno \"Unknown Time Zone\". Kregaj se na ca2 za to (ali pa ne)."
+
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, časovni pas je nastavljen na %topic"
+
+msgid "%name, your language was set to %topic"
+msgtext "%name, jezik je nastavljen na %topic"
+
+msgid "and your country was set to %topic"
+msgtext "in tvoja država je nastavljena na %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgtext "%name, Trenutno bo samo klient na voljo."
+
+msgid "No files in the playlist"
+msgtext "Ni vsebine v seznamu predvajanja."
+
+msgid " gone, uff..."
+msgtext " odstranjen, uff..."
+
+msgid "Bye %name! :("
+msgtext "Adijo %name! :("
+
+msgid "See you %name! :("
+msgtext "Kasneje, %name! :("
+
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name, je vstopil/a!! (Subset of commands enabled)."
+
+msgid "%name you are connected!";
+msgtext "%name si povezan/a!";
+
+msgid "Welcome %name! :) %param1 Please, use exclamation mark to get help."
+msgtext "Dobrodošel/a %name! :) %param1 Vtipkaj klicaj in pritisni "enter" za pomoč."
+
+msgid "Hi %name! Welcome! %param1 What brings you here today?"
+msgtext "Zdravo %name! Dobrodošel/a! %param1 Kaj te je prineslo sem?"
+
+msgid "%name is back! :)"
+msgtext "%name se je vrnil/a! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Prosim, %name! Hvala za sledenje!"
+
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Bom predvajal Rock Roll za vie nove sledilce!!"
+
+msgid "Opening Rick Roll for you!!"
+msgtext "Predvajam Rick Roll za tebe!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, Predvajam Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Predvajam Rick Astley - Never Gonna Give You Up!"
+
+msgid "%name, your country is unknown"
+msgtext "%name, tvoja država je neznana"
+
+msgid "%name, your country is set to \"%topic\""
+msgtext "%name, drżava nastavljena na \"%topic\""
+
+msgid "%name, country of %name is unknown"
+msgtext "%name, država z imenom %name je neznana."
+
+msgid "%name, country of %name is \"%topic\""
+msgtext "%name, država od %name je %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgtext "%name, potrebuješ: Visual Studio 2015 (najmanj Community Edition), SVN (Subversion) klient in dostop do ca2 repositorija (delujoč email näslov potreben). Kontaktiraj Camila za več informacij."
+
+msgid "%name, it is \"%topic\""
+msgtext "%name, je \"%topic\""
+
+msgid "%name, it is \"%topic\" for %param1."
+msgtext "%name, čas je \"%topic\" za %param1."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgtext "%d/%m/%Y %H:%M:%S"
+
+msgid "hour/minutes/seconds"
+msgtext "ur/minut/sekund"
+
+msgid "%name, your country code is set to \"%topic\""
+msgtext "%name, koda države je nastavljena na \"%topic\""
+
+msgid "%name, country code of %param1 is \"%topic\""
+msgtext "%name, koda države od %param1 je \"%topic\""

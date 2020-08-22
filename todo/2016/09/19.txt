@@ -1,0 +1,6 @@
+2
+0
+todo reader overlay
+docs.ca2.cc - thread mvp
+ChatBot, AudioPlayer etc. Debugging
+Finished

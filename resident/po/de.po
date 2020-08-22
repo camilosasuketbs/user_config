@@ -1,0 +1,199 @@
+msgid "Good Morning!"
+msgstr "Guten Morgen!"
+
+msgid "Good Afternoon!"
+msgstr "Guten Tag!"
+
+msgid "Good Evening!"
+msgstr "Guten Abend!"
+
+msgid "Good Night!"
+msgstr "Gute Nacht!"
+
+msgid "%name, Good Morning!"
+msgstr "Guten Morgen %name!"
+
+msgid "%name, Good Afternoon!"
+msgstr "Guten Tag %name!"
+
+msgid "%name, Good Evening!"
+msgstr "Guten Abend %name!"
+
+msgid "%name, Good Night!"
+msgstr "Gute Nacht %name!"
+
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgstr "%name, unterstützte Befehle: !help, !about und !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgstr "%name, Song wird nicht abgespielt oder ist nicht in der Abspielliste"
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgstr "%name, der momentan abgespielte Song ist: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgstr "%name, Hilfeinformationen werden gruppiert in:\n!help util\n!help info\n!help config\n und\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgstr "%name, Hilfsbefehle sind gruppiert in:\n!command info\n!commands config\n and\n!commands media";
+
+msgid " settings commands are:"
+msgstr " Optionsbefehle sind:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgstr "!setname \"name\"\n!setlang \"Ländercode\"\n and\n!setzone \"Zeitzone\""
+
+msgid " multimedia commands are:"
+msgstr " Multimedia Befehle sind:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgstr "!rr\n!rickroll\n!say \"text\"\n!playlist\n und\n!play \"sound\""
+
+msgid " some utility commands:"
+msgstr " ein paar nützliche Befehle:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgstr "!urbd \"örtliche Wörterbuch Abfrage\"\n!at \"über Google automatisch übersetzen\"\n und\n!t \"lang\" \"Text von Sprache übersetzen\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgstr "%name, !rr or !rickroll spielt den 80er Hit Never Gonna Give You Up gesungen von Rick Astley mit ASCII Animation."
+
+msgid "%name, Use this command to get special tips"
+msgstr "%name, benutze diesen Befehl um spezielle Tipps zu erhalten"
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgstr "%name, sagt das er Windows Narrator für den gesprochenen Text benutzt."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgstr "%name, ide \"platform\" Anzeige Informationen über Tools die für die Entwicklung von ca2 Framework und Apps der angegebene Platform benutzt wurden. <platform> vielleicht: Windows (Desktop), Linux, MacOS, IOS, Android und WinRT."
+          
+msgid "%name, setlang <language code and/or two-letter country code> sets user preferred language. Communication is preferrably done using specified language or country."
+msgstr "%name, setlang <Sprachcode oder Ländercode mit 2 Buchstaben> wähle bevorzugte Sprache des Users. Für die Kommunikation wird eine bevorzugte Sprache oder Land gewählt."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgstr "%name, benutze den setname Befehl um einen besseren Benutzernamen zu wählen, zum Beispiel mit Großbuchstaben oder Leerzeichen. Das könnte hilfreicher für die Text-to-Speech Funktion sein. "
+
+msgid " information retrieval commands are:"
+msgstr " Befehle um Informationen zu erhalten sind:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits"
+msgstr "!ide \"Platform\"\n!help \"Befehl\"\n!cmdtips\n!about\n!want the bot\nund\n!credits"
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, für Windows Desktop Software Entwicklung benutzt ca2 Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN und WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses latest version of Ubuntu LTS, Code::Blocks and SmartSVN."
+msgstr "%name, für die Linux Entwicklung nutzt ca2 die letzte Version von Ubuntu mit Long Term Support, Code::Blocks und SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgstr "%name, mit MacOS nutzt ca2 El Capitan, Xcode und SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgstr "%name, für die iOS Entwicklung nutzt ca2 Mac OS X El Capitan, XCode, SmartSVN und XCode iOS Simulator. Momentan versuche ich co-founder zu überreden mir ein iOS Gerät auszuleihen."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgstr "%name, für die Android Entwicklung nutzt ca2 Windows mit Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator für Android und ein Galaxy Tab 3."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgstr "%name, für die Windows Appstore Entwicklung nutzt ca2 Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN und WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgstr "%name, es wird ein Clip von der !playlist abgespielt wenn ein Ausrufezeichen und ein Befehl nicht gefunden wurde. Wenn ein Audio Clip nicht gefunden wurde, wird der Text anzeigt wie mit !say <text>"
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgstr "%name, ca2 ist ein Multiplatform Framework, dass mit C++ geschrieben wurde und soll Entwicklern helfen tolle Apps zu entwickeln."
+
+msgid "%name, user info, user thumb, user country and user flag are supplied by xmetrix code, web api and web server and also Livecoding.tv API. Thank you, Vapaamies for Russian translation. Thank you, rootkiller for French translation. Thank you, Catherina Cortega, for dutch translation. Thank you, fuel and andremommert for German translation."
+msgstr "%name, Benutzer Info Benutzer Thumb, Benutzer Land und Benutzer Flaggen werden von xMetrix Code bereitgestellt, web api und web server. Danke Vapaamies für die russische Übersetzung. Danke r00tkiller für die französische Übersetzung. Danke catherinacortega für die niederländische Übersetzung. Danke Fuel and andremommert für die deutsche Übersetzung."
+
+msgid "%name, your language is set to %topic"
+msgstr "%name, deine Sprache wurde auf %topic gesetzt"
+
+
+msgid "%name, your language was set to \"%topic\""
+msgstr "%name, deine Sprache wurde auf \"%topic\" gesetzt"
+
+msgid "%name, your time zone was set to UTC %topic"
+msgstr "%name, deine Zeitzone wurde auf UTC %topic gesetztz"
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgstr "%name, deine Zeitzone wurde auf \"%topic\" gesetzt."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgstr "Momentan ist keine Zeitzone gesetzt."
+
+msgid "%name, your time zone is set to %topic"
+msgstr "%name, deine Zeitzone wurde auf %topic gesetzt"
+
+msgid "%name, your time zone is set to %topic"
+msgstr "$name, deine Zeitzone wurde auf %topic gesetzt"
+         
+msgid "%name, your language was set to %topic"
+msgstr "%name, deine Sprache wurde auf %topic gesetzt"
+
+msgid "and your country was set to %topic"
+msgstr "dein Land wurde auf %topic gesetzt"
+
+msgid "%name , Currently only the client will be made available."
+msgstr "%name, momentan wird nur der Client zur Verfügung gestellt."
+
+msgid "No files in the playlist"
+msgstr "Keine Dateien zum abspielen in der Playlist"
+
+msgid " gone, uff..."
+msgstr "und weg..."
+         
+msgid "Bye %name! :("
+msgstr "Auf Wiedersehen %name! :("
+
+msgid "See you %name! :("
+msgstr "Bis bald %name :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgstr "%name, ist beigetreten!! (das setzen von Befehlen ist aktiviert)."
+
+msgid "%name you are connected!";
+msgstr "%name du bist nun verbunden!"
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgstr "<emph>Willkommen %name! :) %param1</emph> Gib ein Ausrufezeichen ein und drücke Enter um ein wenig Hilfe zu bekommen."
+
+msgid "<emph>Hi %name! Welcome!</emph> %param1 What brings you here today?"
+msgstr "<emph>Hi %name! Willkommen! %param1</emph> Was bringt dich heute hierher?"
+
+msgid "%name is back! :)"
+msgstr "%name ist zurück! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgstr "Du bist Willkommen, %name! Danke fürs followen"
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgstr "Für alle neuen Follower spielen wir Rick Roll!!"
+
+msgid "Opening Rick Roll for you!!"
+msgstr "Wir spielen Rick Roll für dich!!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "%name, spielt ab Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgstr "spiele ab... Rick Astley - Never Gonna Give You Up!"
+
+msgid "The country of %name is unknown"
+msgstr "Das Land von %name is unbekannt"
+
+msgid "The country of %name is \"%topic\""
+msgstr "Land von %name ist %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgstr "%name, du brauchst Visual Studio 2015 (am besten die Community Edition), einen SVN (Subversion) Client und Repository Zugriff (eine gültige Emailadresse wird benötigt). Sprich einfach mit Camilo für weitere Details."
+
+msgid "%name, it is \"%topic\""
+msgstr "%name, es ist \"%topic\""
+
+msgid "%name, it is \"%topic\" for %param1."
+msgstr "%name, es ist \"%topic\" für %param1."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgstr "%d.%m.%Y %H:%M:%S"

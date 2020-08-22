@@ -1,0 +1,52 @@
+#include "framework.h"
+#include "app-core/appseed/xmpp_resident/plugin.h"
+
+
+class plugin :
+	virtual ::xmpp_resident::plugin
+{
+	
+	public:
+	
+	
+	plugin(::aura::application * papp, object * p) :
+		object(papp),
+		xmpp_resident(papp, p)
+	{
+		
+	}
+
+	string on_bot(string strUser, string strText)
+	{
+		
+		return "Hi " +strUser +", You loved by \"" + strUser + "\"";
+	
+	}
+
+	string on_pres(string strUser, string strType)
+	{
+		
+		if(strType == "unavailable")
+		{
+			return "Bye, " + strUser;
+		}
+		else
+		{
+			
+			return "Hi, " + strUser;
+			
+		}
+	
+	}
+
+
+};
+
+
+
+BEG_ONLY_FACT
+CREATE_OBJECT_ENTRY("plugin", plugin)
+END_ONLY_FACT
+
+
+

@@ -1,0 +1,220 @@
+﻿15
+1
+[Aug2018] ca2 Framework
+-Building C++ Apps with ca2 framework
+-[Mod:Memory Leak Hunting]
+-resident:fix subscribers/channels icons
+-Form001:Combo:Country/State,Province/City
+-Documentation:doxygen
+-Windows Server Round
+--MyDNS server
+--netnode web server
+- Windows Desktop Round
+--3rd party libraries
+---FFMpeg for Windows Desktop
+---OpenSSL for Windows Desktop
+---Static OpenSSL for Windows Desktop
+---third projects
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---[Idee:Tvirusfirefly] Timers for Resident
+---[Idee:Tvirusfirefly] Bug: Delay between channels
+---[Idee:Tvirusfirefly] Bug: Too much CPU usage
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse|ca2project://basis/app-core/hellomultiverse?action=open
+---Flag|ca2project://basis/app-core/flag?action=open
+---Alphaclock|ca2project://basis/app-cidadedecuritiba/alphaclock?action=open
+---Clockverse|ca2project://basis/app-core/clockverse?action=open
+---Projection|ca2project://basis/app-core/projection?action=open
+---RDP Client|ca2project://basis/app-core/rdpclient?action=open
+---Waven|ca2project://basis/app-veriwell/waven?action=open
+--Multimedia Applications
+---Waven|ca2project://basis/app-veriwell/waven?action=open
+---Verisimplevideo|ca2project://basis/app-veriwell/verisimplevideo?action=open
+---veriwell Musical Player lite|ca2project://basis/app-veriwell/flag?action=open
+---veriwell Musical Player|ca2project://basis/app-veriwell/flag?action=open
+---auraverse|ca2project://basis/app-core/auraverse?action=open
+--Utilities
+---addressbook|ca2project://basis/app-core/addressbook?action=open
+---verilux|ca2project://basis/app-core/verilux?action=open
+---verifile|ca2project://basis/app-core/verifile?action=open
+---veriedit|ca2project://basis/app-core/veriedit?action=open
+---hashhub|ca2project://basis/app-core/hashhub?action=open
+---textformat|ca2project://basis/app-core/textformat?action=open
+--Arcade Games
+---Tic Tac Toe|ca2project://basis/game/tictactoe?action=open
+---Tetris|ca2project://basis/game/tetris?action=open
+---Arkanoid|ca2project://basis/game/arkanoid?action=open
+---Sokoban|ca2project://basis/game/sokoban?action=open
+---Pacman|ca2project://basis/game/pacman?action=open
+--Core Games
+---coincube|ca2project://basis/game/coincube?action=open
+---arch001|ca2project://basis/game/arch001?action=open
+--ca2 store application
+-Windows Store Round
+--3rd party libraries
+---OpenSSL for Windows Store
+---FFMpeg for Windows Store
+---Other Libraries for Windows Store
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-macOS Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+---hashhub
+---textformat
+-[Skip] iOS Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[Skip]RDP Client
+---[Skip]Waven
+--[Skip]Multimedia Applications
+---[Skip]Waven
+---[Skip]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+--[Skip]Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---[Skip]verifile
+---[Skip]veriedit
+-Linux Round: Manjaro
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[block:missing openssl 1.1 at ubuntu]RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---[ffmpeg Build Task Force]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+---[Skip]auraverse
+--Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---verifile
+---[Skip]veriedit
+-Android Round
+--Remove Pango Library dependency from draw2d cairo back end.
+--Third Party Libraries
+---OpenSSL for Android using WSL (Windows Subsystem for Linux)
+---FreeImage for Android using WSL
+---Task Force for FFmpeg for Android using WSL
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows "Homerun"
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Extra Rounds
+--Game of Life
+--Drum Factory
+--Simple Drawing
+[Aug2018] ca2 Store Application and ca2 Installer

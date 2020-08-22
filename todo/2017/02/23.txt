@@ -1,0 +1,8 @@
+﻿2
+0
+Todo
+Create HTTP File Server
+Create HTTP File Server Client
+ca2 Store February 2017
+store.ca2.cc should be browsable even if ca2 is not installed yet.
+Finished

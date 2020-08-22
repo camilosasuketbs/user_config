@@ -1,0 +1,238 @@
+msgid "Good Morning!"
+msgtext "Dobré ráno!"
+
+msgid "Good Afternoon!"
+msgtext "Dobré odpoledne!"
+
+msgid "Good Evening!"
+msgtext "Dobrý večer!"
+
+msgid "Good Night!"
+msgtext "Dobrou noc!"
+
+msgid "%name, Good Morning!"
+msgtext "%name, dobré ráno!"
+
+msgid "%name, Good Afternoon!"
+msgtext "%name, dobré odpoledne!"
+
+msgid "%name, Good Evening!"
+msgtext "%name, dobrý večer!"
+
+msgid "%name, Good Night!"
+msgtext "%name, dobrou noc!"
+
+msgid "%name, Some supported commands !help, !about and !want the bot"
+msgtext "%name, bot rozumí příkazům jako (pomoc, o, dostupnost): !help, !about a !want the bot"
+
+msgid "%name, song not playing or not in record."
+msgtext "%name, hudba nehraje nebo není dostupná."
+
+msgid "%name, currently playing song is: \"%topic\"."
+msgtext "%name, aktuálně hraje píseň: \"%topic\"."
+
+msgid "%name, help information is grouped in:\n!help util\n!help info\n!help config\n and\n!help media"
+msgtext "%name, instrukce jsou rozděleny do kategorií:\n!help util\n!help info\n!help config\n en\n!help media"
+
+msgid "%name, commands help info were grouped in:\n!commands info\n!commands config\n and\n!commands media"
+msgtext "%name, příkazy jsou rozděleny do kategorií:\n!commands info\n!commands config\n en \n!commands media ";
+
+msgid " settings commands are:"
+msgtext " příkazy k nastavení jsou:"
+
+msgid "!setname \"name\"\n!setlang \"country code\"\n and\n!setzone \"time zone\""
+msgtext "!setname \"jméno\"\n!setlang \"kód země\"\n en \n!setzone \"časové pásmo\""
+
+msgid " multimedia commands are:"
+msgtext " multimediální příkazy jsou:"
+
+msgid "!rr\n!rickroll\n!say \"text\"\n!playlist\n and\n!play \"sound\""
+msgtext "!rr\n!rickroll\n!say \"text\"\n!playlist\n en\n!play \"zvuk\""
+
+msgid " some utility commands:"
+msgtext " nějaké užitečné příkazy:"
+ 
+msgid "!urbd \"urban dictionary query\"\n!at \"google auto translate\"\n and\n!t \"lang\" \"text to translate from lang\""
+msgtext "!urbd \"vyhledat na Urban Dictionary\"\n!at \"automatický překlad přes Google\"\n en\n!t \"taal\" \"překlad textu z vašeho jazyka\""
+
+msgid "%name, !rr or !rickroll plays 80s hit Never Gonna Give You Up performed by Rick Astley with ASCII animation."
+msgtext "%name, !rr of !rickroll spustí hit z 80. let Never Gonna Give You Up zpívaný Rickem Astleym and ASCII animaci.
+
+msgid "%name, Use this command to get special tips"
+msgtext "%name, použijte tento příkaz pro získání speciálních tipů."
+
+msgid "%name, say uses Windows Narrator to speak the supplied text."
+msgtext "%name, say používá Windows Narrator k přečtení dodaného textu."
+
+msgid "%name, ide \"platform\" display information about tools used for development of ca2 framework and apps at the specified platform. \"platform\" may be: windows (Desktop), linux, macos, ios, android and winrt."
+msgtext "%name, ide \"platform\" zobrazí informace of nástrojích, které byly použity pří vývoji frameworku ca2 and aplikacích na této platformě. \"platforma\" může být: Windows (Desktop), Linux, MacOS, iOS, Android and WinRT."
+          
+msgid "%name, setlang \"language code and/or two-letter country code\" sets user preferred language. The bot speaks to you in selected language, as much as possible."
+msgtext "%name, setlang \"kód jazyka nebo dvoupísmenný kód země\" nastaví preferovaný jazyk. Bot s vámi poté bude mluvit tímto jazykem."
+
+msgid "%name, use setname command to set better user name, matching nick or name, with desired capitalization and spacing. It can make it better the name pronunciantion by Text-To-Speech."
+msgtext "%name, použijte příkaz setname pro nastavení jiného uživatelského jména (přezdívky), s vámi nastavenými velkými písmeny a mezerami. V případě potřeby používat mezery optimalizovat výsledek projevu převodu textu na."
+
+msgid " information retrieval commands are:"
+msgtext " příkazy pro získání informací jsou:"
+        
+msgid "!ide \"platform\"\n!help \"command\"\n!cmdtips\n!about\n!want the bot\nand\n!credits" 		
+msgtext "!ide \"platforma\"\n!help \"příkaz\"\n!cmdtips\n!about\n!want the bot\na\n!credits" 
+
+msgid "%name, For Windows Desktop Software Development, ca2 uses Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, pro vývoj Windows Desktop softwaru využívá ca2 Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN a WinMerge."
+
+msgid "%name, For Linux Software Development, ca2 uses Ubuntu %topic, Code::Blocks and SmartSVN."
+msgtext "%name, pro vývoj Linux softwaru využívá ca2 Ubuntu %topic, Code::Blocks a SmartSVN."
+
+msgid "%name, At MacOS, ca2 uses El Capitan, XCode and SmartSVN."
+msgtext "%name, na MacOS ca2 využívá El Capitan, XCode a SmartSVN."
+
+msgid "%name, for iOS development, ca2 uses Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator and trying to convince co-founder to borrow iOS device."
+msgtext "%name, pro vývoj iOS aplikací ca2 využívá Mac OS X El Capitan, XCode, SmartSVN, XCode iOS simulator a snahu přesvědčit spoluzakladatele o zapůjčení iOS zařízení."
+
+msgid "%name, for Android development, ca2 uses Windows with Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator for Android and Galaxy Tab 3 (Door Prize for co-founder, gift for me, help for ca2 developers and users)."
+msgtext "%name, pro vývoj Android aplikací využívá Windows s Hyper-V, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN, WinMerge, Visual Studio Emulator pro Android a Galaxy Tab 3."
+
+msgid "%name, for Windows Store App development, ca2 uses Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN and WinMerge."
+msgtext "%name, pro vývoj Windows Store aplikací ca2 využívá Windows, Visual Studio 2015 Community Edition, SmartSVN, TortoiseSVN a WinMerge."
+
+msgid "%name, For the exclamation mark, if an existing command is not found, an audio clip is played from !playlist. If a corresponding audio clip is not found, the text is played like in !say <text>"
+msgtext "%name, pokud není příkaz nalezen, bude přehrán zvukový klip z !playlist. Když nebude náležitý klip nalezen, bude text přehrán jako s příkazem !say <text>."
+
+msgid "%name, ca2 is an all-purpose multi-platform framework and set of libraries written in C++ language to help developers create great apps for users."
+msgtext "%name, ca2 je víceúčelový multiplatformní framework a sada knihoven napsaných v jazyce C++, které pomáhají vývojářům vytvářet skvělé aplikace pro uživatele."
+
+msgid "%name presence and interest.\nxmetrix xmxstudio API.\nLivecoding.TV API and web site.\nVapaamies Russian translation.\nr00tkiller French translation.\nCatherina Cortega Dutch translation.\nfuel and andremommert German translation.\nPawel Kulesza Polish translation.\nha10word Traditional Chinese translation."
+msgtext "%name, informace o uživateli, obraz, a vlajka pochází z xmetrix xmxstudio API, Livecoding.TV api a webové stránky. Děkuji Vapaamiesovi za ruský překlad, r00tkillerovi za francouzský překlad, Catherině Cortega za holandský překlad, fuelovi a andremommertovi za německý překlad, Pawel Kulesza za polský překlad a ha10word za čínský překlad."
+
+msgid "%name, your language is set to %topic"  
+msgtext "%name, tvůj jazyk je nastaven %topic"
+
+msgid "%name, your language was set to \"%topic\""
+msgtext "%name, tvůj jazyk byl nastaven na \"%topic\""
+
+msgid "%name, your time zone was set to UTC %topic"
+msgtext "%name, tvoje časové pásmo bylo nastaveno na UTC %topic" 
+
+msgid "%name, your time zone was set to \"%topic\"."
+msgtext "%name, tvoje časové pásmo bylo nastaveno na \"%topic\"."
+
+msgid " Actually, it is currently \"Unknown Time Zone\". Yell ca2 on this (or not)."
+msgtext "Doopravdy, v současnosti je \"Unknown Time Zone\". Stěžujte si ca2 (a nebo radši ne)."
+
+msgid "%name, your time zone is set to %topic"
+msgtext "%name, tvoje časové pásmo je %topic"
+
+msgid "%name, your language was set to %topic"
+msgtext "%name, tvůj jazyk byl nastaven na %topic"
+
+msgid "and your country was set to %topic"
+msgtext "tvoje země byla nastavena na %topic"
+
+msgid "%name , Currently only the client will be made available."
+msgtext "%name, v současnosti, pouze klient bude zpřístupněn."
+
+msgid "No files in the playlist"
+msgtext "V playlistu nejsou žádné soubory."
+
+msgid " gone, uff..."
+msgtext "pryč, uff..."
+         
+msgid "Bye %name! :("
+msgtext "Ahoj %name! :("
+
+msgid "See you %name! :("
+msgtext "Měj se, %name! :("
+      
+msgid "%name, entered!! (Subset of commands enabled)."
+msgtext "%name, vstoupil!! (Subset of commands enabled)."
+
+msgid "%name you are connected!";
+msgtext "%name jsi připojen!";
+
+msgid "<emph>Welcome %name! :) %param1</emph> Please, use exclamation mark to get help."
+msgtext "<emph>Vítej %name! :) %param1</emph> Pro získání nápovědy použij vykřičník."
+
+msgid "<emph>Hi %name! Welcome! %param1</emph> What brings you here today?"
+msgtext "<emph>Ahoj %name! Vítej! %param1</emph> Co tě sem přivádí?"
+
+msgid "%name is back! :)"
+msgtext "%name se vrátil! :)"
+
+msgid "You're welcome, %name! Thank you for following!"
+msgtext "Nemáte zač, %name! Děkuji za sledování!"
+            
+msgid "Opening Rick Roll for you all new followers!!"
+msgtext "Pro všechny nové followery bude přehrán Rick Roll!"
+
+msgid "Opening Rick Roll for you!!"
+msgtext "Rick Roll bude pro vás hrán!"
+
+msgid "%name , Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "%name, Hraje Rick Astley - Never Gonna Give You Up!"
+
+msgid "Opening Rick Astley - Never Gonna Give You Up!"
+msgtext "Hraje Rick Astley - Never Gonna Give You Up!"
+
+msgid "%name, your country is unknown"
+msgtext "%name, vaše země není známá"
+
+msgid "%name, your country is set to \"%topic\""
+msgtext "%name, vaše země je nastavená na \"%topic\""
+
+msgid "%name, country of %name is unknown"
+msgtext "%name, země s názvem %name není známá."
+
+msgid "%name, country of %name is \"%topic\""
+msgtext "%name, země s názvem %name je %topic"
+
+msgid "%name, you will need Visual Studio 2015 (at least Community Edition), a SVN (Subversion) client and repository access (working e-mail address needed). Talk to Camilo for details."
+msgtext "%name, je vyžadováno Visual Studio 2015 (alespoň Community Edition), SVN (Subversion) klient a přístup k repository (funkční e-mailová adresa vyžadována). Pro více detailů napište Camilovi."
+
+msgid "%name, it is \"%topic\""
+msgtext "%name, je \"%topic\""
+
+msgid "%name, it is \"%topic\" for %param1."
+msgtext "%name, je \"%topic\" pro %param1."
+
+msgid "%Y-%m-%d %H:%M:%S"
+msgtext "%d/%m/%Y %H:%M:%S"
+
+msgid "hour/minutes/seconds"
+msgtext "hodin:minut:sekund"
+
+
+
+msgid "%name, your country code is set to \"%topic\""
+msgtext "%name, tvůj kód země je nastaven na \"%topic\""
+
+msgid "%name, country code of %param1 is \"%topic\""
+msgtext "%name, kód země %param1 je \"%topic\""
+
+msgid "(No Results)"
+msgtext "(Žádné výsledky)"
+
+msgid "%name, the weather at %param1 is %topic."
+msgtext "%name, the weather at %param1 is %topic."
+
+msgid "%name, your current weather is %topic."
+msgtext "%name, your current weather is %topic."
+
+msgid "%name, the weather for %param2 at %param1 is %topic."
+msgtext "%name, the weather for %param2 at %param1 is %topic."
+
+
+
+msgid "%name, your city is unknown"
+msgtext "%name, tvoje město je neznámé"
+
+msgid "%name, your city is set to \"%topic\""
+msgtext "%name, tvoje město je nastavené na \"%topic\""
+
+msgid "%name, city of %param1 is unknown"
+msgtext "%name, měst %param1 je neznámé"
+
+msgid "%name, city of %param1 is \"%topic\""
+msgtext "%name, město %param1 je\"%topic\""
+

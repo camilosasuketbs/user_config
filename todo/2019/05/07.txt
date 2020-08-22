@@ -1,0 +1,239 @@
+158
+0
+ca2 Framework
+-Freelancing: Ubuntu/Raspbian
+-IMPORTANT!! Profile/"Squeeze" resident
+-IMPORTANT!! Profile/"Squeeze" desk, specially Startup (find way to profile application "rare"/"non-repeating"[but non-performing] operations)
+-CD Browse/Rip Component
+-Simple CEF Client
+-Rich Text Editor Marathon
+-Notify People about Project Creation (Chrif_Rachid)
+-Building C++ Apps with ca2 framework
+-Test Arcs API [using Simple Drawing App]
+-[Mod:Memory Leak Hunting]
+-resident:fix subscribers/channels icons
+-Form001:Combo:Country/State,Province/City
+-Documentation:doxygen
+-Windows Server Round
+--MyDNS server
+--netnode web server
+-Windows Desktop Round
+--3rd party libraries
+---FFMpeg for Windows Desktop
+---OpenSSL for Windows Desktop
+---Static OpenSSL for Windows Desktop
+---third projects
+--Simple Applications|menu://C:\basis\platform\seed\metaseed\simple.sln,C:\basis
+---simple_drawing|ca2project://basis/app-simple/simple_drawing?action=open
+---simple_form|ca2project://basis/app-simple/simple_form?action=open
+---notify_drawing|ca2project://basis/app-simple/notify_drawing?action=open
+--Core Applications|menu://C:\xcore\platform\seed\metaseed\core_solutions_64.sln,C:\xcore
+---Desk|ca2project://basis/app-core/desk?action=open
+---Todo|ca2project://basis/app-core/todo?action=open
+---Clockverse|ca2project://basis/app-core/clockverse?action=open
+---Auraclick|ca2project://basis/app-core/auraclick?action=open
+---Auratype|ca2project://basis/app-core/auratype?action=open
+---Chronometer|ca2project://basis/app-core/chronometer?action=open
+---Timer|ca2project://basis/app-core/timer?action=open
+---Resident|ca2project://basis/app-core/resident?action=open
+---Weather|ca2project://basis/app-core/weather?action=open
+---Waven|ca2project://basis/app-core/waven?action=open
+--Basic Applications|menu://C:\basis\platform\seed\metaseed\basic.sln,C:\basis
+---Hellomultiverse|ca2project://basis/app-core/hellomultiverse?action=open
+---Flag|ca2project://basis/app-core/flag?action=open
+---Alphaclock|ca2project://basis/app-cidadedecuritiba/alphaclock?action=open
+---Clockverse|ca2project://basis/app-core/clockverse?action=open
+---Projection|ca2project://basis/app-core/projection?action=open
+---Browser|ca2project://basis/app/browser?action=open
+--Multimedia Applications|menu://C:\basis\platform\seed\metaseed\multimedia.sln
+---RDP Client|ca2project://basis/app-core/rdpclient?action=open
+---Waven|ca2project://basis/app-veriwell/waven?action=open
+---Verisimplevideo|ca2project://basis/app-veriwell/verisimplevideo?action=open
+---veriwell Musical Player lite|ca2project://basis/app-veriwell/musical_player_lite?action=open
+---veriwell Musical Player|ca2project://basis/app-veriwell/musical_player?action=open
+---auraverse|ca2project://basis/app-core/auraverse?action=open
+--Foundation Applications|menu://C:\basis\platform\seed\metaseed\foundation.sln
+---addressbook|ca2project://basis/app-core/addressbook?action=open
+---verilux|ca2project://basis/app-core/verilux?action=open
+---verifile|ca2project://basis/app-core/verifile?action=open
+---note|ca2project://basis/app-core/note?action=open
+---Hash Hub|ca2project://basis/app-core/hash_hub?action=open
+---textformat|ca2project://basis/design/textformat?action=open
+---Simple Drawing|ca2project://basis/app-simple/simple_drawing?action=open
+---Simple Form|ca2project://basis/app-simple/simple_form?action=open
+--Arcade Games|menu://C:\basis\game\seed\windows\arcade.sln
+---Game of Life|ca2project://basis/game/game_of_life?action=open
+---Tic Tac Toe|ca2project://basis/game/tictactoe?action=open
+---Tetris|ca2project://basis/game/tetris?action=open
+---Arkanoid|ca2project://basis/game/arkanoid?action=open
+---Sokoban|ca2project://basis/game/sokoban?action=open
+---Pacman|ca2project://basis/game/pacman?action=open
+--Core Games|menu://C:\basis\game\seed\windows\coregames.sln
+---coincube|ca2project://basis/game/coincube?action=open
+---arch001|ca2project://basis/game/arch001?action=open
+-Windows Store Round
+--3rd party libraries|menu://C:\winmetro\platform\seed\metaseed\m_third.sln
+---OpenSSL for Windows Store
+---FFMpeg for Windows Store
+---Other Libraries for Windows Store
+--Basic Applications|menu://C:\winmetro\platform\seed\metaseed\m_basic.sln
+---Hellomultiverse|ca2project://basis/winmetro-app-core/hellomultiverse?action=open
+---Flag|ca2project://basis/winmetro-app-core/flag?action=open
+---Alphaclock|ca2project://basis/winmetro-app-cidadedecuritiba/alphaclock?action=open
+---Clockverse|ca2project://basis/winmetro-app-core/clockverse?action=open
+---Projection|ca2project://basis/winmetro-app-core/projection?action=open
+--Multimedia Applications|menu://C:\winmetro\platform\seed\metaseed\m_multimedia.sln
+---RDP Client|ca2project://basis/winmetro-app-core/rdpclient?action=open
+---Waven|ca2project://basis/winmetro-app-veriwell/waven?action=open
+---Verisimplevideo|ca2project://basis/winmetro-app-veriwell/verisimplevideo?action=open
+---veriwell Musical Player lite|ca2project://basis/winmetro-app-veriwell/musical_player_lite?action=open
+---auraverse|ca2project://basis/winmetro-app-core/auraverse?action=open
+--Foundation|menu://C:\winmetro\platform\seed\metaseed\m_foundation.sln
+---addressbook|ca2project://basis/winmetro-app-core/addressbook?action=open
+---verilux|ca2project://basis/winmetro-app-core/verilux?action=open
+---verifile|ca2project://basis/winmetro-app-core/verifile?action=open
+---veriedit|ca2project://basis/winmetro-app-core/veriedit?action=open
+-macOS Round|menu://
+--Core Applications|menu:///xcore/platform/seed/metaseed/mac-core.xcworkspace,/xcore
+---commander|ca2project://scheme/commander
+---commander-browser-bot|ca2project://scheme/commander-browser-bot
+---commander-browser-def|ca2project://scheme/commander-browser-def
+---verifile|ca2project://scheme/verifile
+---clockverse|ca2project://scheme/clockverse
+---Desk|ca2project://scheme/desk
+---Todo|ca2project://scheme/todo
+---Auraclick|ca2project://scheme/auraclick
+---Auratype|ca2project://scheme/auratype
+---Chronometer|ca2project://scheme/chronometer
+---Timer|ca2project://scheme/timer
+---Resident|ca2project://scheme/resident
+---Weather|ca2project://scheme/weather
+---Waven|ca2project://scheme/Waven
+--Basic Applications|menu:///macos/platform/seed/metaseed/mac-basic.xcworkspace,/macos
+---Hellomultiverse|ca2project://scheme/Hello Multiverse!!
+---Flag|ca2project://scheme/Flag
+---Alphaclock|ca2project://scheme/Alphaclock
+---Clockverse|ca2project://scheme/clockverse
+---Projection|ca2project://scheme/Projection
+--Foundation|menu:///macos/platform/seed/metaseed/mac-foundation.xcworkspace,/macos
+---addressbook|ca2project://scheme/addressbook
+---verilux|ca2project://scheme/verilux
+---verifile|ca2project://scheme/verifile
+---veriedit|ca2project://scheme/veriedit
+---hashhub|ca2project://scheme/hashhub
+---textformat|ca2project://scheme/textformat
+--Multimedia Applications|menu:///macos/platform/seed/metaseed/mac-multimedia.xcworkspace,/macos
+---RDP Client|ca2project://scheme/Rdpclient
+---Waven|ca2project://scheme/Waven
+---Verisimplevideo|ca2project://scheme/verisimplevideo
+---veriwell Musical Player lite|ca2project://scheme/veriwell Musical Player lite
+---[sq3lite:Bad Instruction]veriwell Musical Player|ca2project://scheme/veriwell Musical Player
+---auraverse|ca2project://scheme/auraverse
+-iOS Round
+--Basic Applications
+---Hellomultiverse|ca2project://scheme/ios_app_core_hellomultiverse
+---Flag|ca2project://scheme/ios_app_core_flag
+---Alphaclock|ca2project://scheme/ios_app_cidadedecuritiba_alphaclock
+---Clockverse|ca2project://scheme/ios_app_core_clockverse
+---Projection|ca2project://scheme/ios_app_core_projection
+--Multimedia Applications
+---RDP Client|ca2project://scheme/Rdpclient
+---Waven|ca2project://scheme/Waven
+---Verisimplevideo|ca2project://scheme/verisimplevideo
+---veriwell Musical Player lite|ca2project://scheme/veriwell Musical Player lite
+--Foundation
+---addressbook|ca2project://scheme/addressbook
+---verilux|ca2project://scheme/verilux
+---verifile|ca2project://scheme/verifile
+---veriedit|ca2project://scheme/veriedit
+-Linux Round: Ubuntu
+--Core Applications
+---Desk
+---Todo
+---Clockverse
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+--Multimedia Applications
+---RDP Client
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Foundation
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Android Round
+--Remove Pango Library dependency from draw2d cairo back end.
+--Third Party Libraries
+---OpenSSL for Android using WSL (Windows Subsystem for Linux)
+---FreeImage for Android using WSL
+---Task Force for FFmpeg for Android using WSL
+--Basic Applications
+---Hellomultiverse|ca2project://basis/app-core/nord_app_core_hellomultiverse?action=open
+---Flag|ca2project://basis/app-core/nord_app_core_flag?action=open
+---Alphaclock|ca2project://basis/app-core/nord_app_cidadedecuritiba_alphaclock?action=open
+---Clockverse|ca2project://basis/app-core/nord_app_core_clockverse?action=open
+---Projection|ca2project://basis/app-core/nord_app_core_projection?action=open
+--Multimedia Applications
+---RDP Client|ca2project://basis/app-core/nord_app_core_rdpclient?action=open
+---Waven|ca2project://basis/app-core/nord_app_veriwell_waven?action=open
+---Verisimplevideo|ca2project://basis/app-core/nord_app_veriwell_verisimplevideo?action=open
+---[Skip]veriwell Musical Player lite|ca2project://basis/app-core/nord_app_core_musical_player_lite?action=open
+--[Skip]Foundation
+---[Skip]addressbook|ca2project://basis/app-core/nord_app_core_addresbook?action=open
+---[Skip]verilux|ca2project://basis/app-core/nord_app_core_verilux?action=open
+---[Skip]verifile|ca2project://basis/app-core/nord_app_core_verifile?action=open
+---[Skip]veriedit|ca2project://basis/app-core/nord_app_core_veriedit?action=open
+-Windows "Homerun" Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse|ca2project://basis/app-core/hellomultiverse?action=open
+---Flag|ca2project://basis/app-core/flag?action=open
+---Alphaclock|ca2project://basis/app-cidadedecuritiba/alphaclock?action=open
+---Clockverse|ca2project://basis/app-core/clockverse?action=open
+---Projection|ca2project://basis/app-core/projection?action=open
+--Multimedia Applications
+---RDP Client|ca2project://basis/app-core/rdpclient?action=open
+---Waven|ca2project://basis/app-veriwell/waven?action=open
+---Verisimplevideo|ca2project://basis/app-veriwell/verisimplevideo?action=open
+---veriwell Musical Player lite|ca2project://basis/app-veriwell/musical_player_lite?action=open
+---veriwell Musical Player|ca2project://basis/app-veriwell/musical_player?action=open
+---auraverse|ca2project://basis/app-core/auraverse?action=open
+--Foundation
+---addressbook|ca2project://basis/app-core/addressbook?action=open
+---verilux|ca2project://basis/app-core/verilux?action=open
+---verifile|ca2project://basis/app-core/verifile?action=open
+---veriedit|ca2project://basis/app-core/veriedit?action=open
+-Extra Rounds
+--Game of Life
+--Drum Factory
+--Simple Drawing
+--Create "Simple Form" Example Project
+--Raspbian
+-ca2 Store Application and ca2 Installer
+--Windows Desktop
+--Manjaro Linux
+--Ubuntu

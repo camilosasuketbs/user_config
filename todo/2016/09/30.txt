@@ -1,0 +1,6 @@
+2
+0
+Windows Clean Install
+Ubuntu Boot-Repair
+macOS Sierra Clean Install
+Finished

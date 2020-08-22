@@ -1,0 +1,183 @@
+﻿61
+1
+Windows "Homerun"
+C++'n bug fixing
+2nd XPlat Round InARow
+-Windows Desktop Round
+--Core Applications
+---Berdge
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows Store Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---Midi Sequencer
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Ubuntu Round
+--Core Applications
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+Waiting SSD delivery
+Install Windows 10!! (again...)
+Install Ubuntu!!
+Install macOS!!
+2nd XPlat Round InARow
+-Ubuntu Round
+--Core Applications
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-macOS Round
+--Core Applications
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-iOS Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Android Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows "Homerun"
+--Core Applications
+---Berdge
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+Finished

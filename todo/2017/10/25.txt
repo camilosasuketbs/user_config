@@ -1,0 +1,206 @@
+﻿60
+0
+[Oct2017] 2nd Cross Platform Round
+With Stabilization for Freelancing and Demand in mind
+-Windows Desktop Round
+--Hello Applications
+---Helloaura
+---[Skip]Helloaxis
+---[Skip]Hellobase
+---[Skip]Helloworld
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---[Skip]veriwell Musical Player
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-[Skip]Windows Store Round
+--3rd party libraries
+---OpenSSL for Windows Store
+---FFMpeg for Windows Store
+---Other Libraries for Windows Store
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---[AcceleratedMIDI]veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-macOS Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---[Partial]veriwell Musical Player lite
+---[Skip]veriwell Musical Player
+--Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---[Skip]verifile
+---[Skip]veriedit
+-iOS Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[Skip]RDP Client
+---[Skip]Waven
+--[Skip]Multimedia Applications
+---[Skip]Waven
+---[Skip]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+--[Skip]Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---[Skip]verifile
+---[Skip]veriedit
+-2monitors-only-17.04: Ubuntu Round
+--Core Applications
+---[partial]Desk
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows Intermission
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---[JustStartup]veriwell Musical Player
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Android Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows "Homerun"
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+Freelancing

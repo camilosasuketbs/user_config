@@ -1,0 +1,1 @@
+﻿   Creating library C:/core/time/intermediate/x64/basis/app-core/app_core_resident_desktop/C/Users/camilo/AppData/Roaming/ca2/config/resident/bot/resident_bot/resident_bot.lib and object C:/core/time/intermediate/x64/basis/app-core/app_core_resident_desktop/C/Users/camilo/AppData/Roaming/ca2/config/resident/bot/resident_bot/resident_bot.exp

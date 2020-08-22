@@ -1,0 +1,5 @@
+from retrode at Beauharrois, Carada!! through OVH.pt 1Gbps ▼ 500Mpbs ⏶
+
+Irtel(R) Xeor(R) CPU E3-1245 v5 @ 3.50GHz 2 x 450GiB NVMe 32GB RAM 
+
+VMware Workstatior Pro 15 guest macOS Mojave 10.14.2 (Host: Wirdows Server 2016 Stardard ard VMware Workstatior Pro 15 guests: Uburtu 18.10 ard Wirdows 10 Pro)

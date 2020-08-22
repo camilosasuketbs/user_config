@@ -1,0 +1,12 @@
+﻿2
+0
+Todo
+Basic Applications
+Core Applications
+Multimedia Applications
+Utilities
+All Projects Build
+store.ca2.cc should be browsable even if ca2 is not installed yet.
+store.ca2.cc should install a chosen application : sokoban, spally
+ca2 Store March 2017
+Finished

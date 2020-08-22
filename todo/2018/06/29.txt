@@ -1,0 +1,211 @@
+﻿92
+0
+[Jun2018] ca2 Framework
+-Building C++ Apps with ca2 framework
+-Form001:Combo:Country/State,Province/City
+-are clockverse time zones stored in file or database? file, better?
+-Documentation:doxygen
+-Rich Text Component
+-Windows Server Round
+--MyDNS server
+--netnode web server
+-Windows Desktop Round
+--3rd party libraries
+---FFMpeg for Windows Desktop
+---OpenSSL for Windows Desktop
+---Static OpenSSL for Windows Desktop
+---third projects
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+---hashhub
+---textformat
+--Arcade Games
+---Tic Tac Toe
+---Tetris
+---Arkanoid
+---Sokoban
+---Pacman
+--Core Games
+---coincube
+---arch001
+--ca2 store application
+-Windows Store Round
+--3rd party libraries
+---OpenSSL for Windows Store
+---FFMpeg for Windows Store
+---Other Libraries for Windows Store
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-macOS Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Chronometer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---[Partial] veriwell Musical Player
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-[Skip] iOS Round
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[Skip]RDP Client
+---[Skip]Waven
+--[Skip]Multimedia Applications
+---[Skip]Waven
+---[Skip]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+--[Skip]Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---[Skip]verifile
+---[Skip]veriedit
+-Ubuntu Round
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---[block:missing openssl 1.1 at ubuntu]RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---[ffmpeg Build Task Force]Verisimplevideo
+---[Skip]veriwell Musical Player lite
+---[Skip]auraverse
+--Utilities
+---[Skip]addressbook
+---[Skip]verilux
+---verifile
+---[Skip]veriedit
+-Android Round
+--Remove Pango Library dependency from draw2d cairo back end.
+--Third Party Libraries
+---OpenSSL for Android using WSL (Windows Subsystem for Linux)
+---FreeImage for Android using WSL
+---Task Force for FFmpeg for Android using WSL
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+-Windows "Homerun"
+--Core Applications
+---Desk
+---Todo
+---Auraclick
+---Auratype
+---Chronometer
+---Timer
+---Resident
+---Weather
+---Waven
+--Basic Applications
+---Hellomultiverse
+---Flag
+---Alphaclock
+---Clockverse
+---Projection
+---RDP Client
+---Waven
+--Multimedia Applications
+---Waven
+---Verisimplevideo
+---veriwell Musical Player lite
+---veriwell Musical Player
+---auraverse
+--Utilities
+---addressbook
+---verilux
+---verifile
+---veriedit
+ca2 Store Application and ca2 Installer
