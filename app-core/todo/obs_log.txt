@@ -1,0 +1,3 @@
+﻿Nov2020/ca2/C++/Windows : Stabilization with Simple Applications
+Nov2020/ca2/C++/Linux : Manjaro : CMake and CLion as Build/Development Alternative
+Nov2020/ca2/C++: New Source Tree Arrangement
