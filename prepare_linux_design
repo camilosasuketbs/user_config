@@ -1,86 +1,47 @@
 #!/bin/bash
 
 
+if [ "$__SYSTEM_DESKTOP_ENVIRONMENT" == "gnome" ]; then
 
 
-defer_git_config()
-{
-
-   FULL_HOSTNAME=$(hostname -f)
-   GITHUB_ID=$(cat $HOME/github_id.txt)
-   GITHUB_ID=($echo $GITHUB_ID)
-
-
-   DEFER_GIT_CONFIG="1"
-
-
-   while [ "$DEFER_GIT_CONFIG" -eq "1" ]; do
-
-      git ls-remote https://github.com/$GITHUB_ID/user_config_$FULL_HOSTNAME -q
-
-      USER_LOCAL_CONFIG_OK=$?
-
-      if [ "$USER_LOCAL_CONFIG_OK" -eq "0" ]; then
-
-         break
-
-      fi
-
-      echo ""
-      echo ""
-      echo "Could not connect to https://github.com/$GITHUB_ID/user_config_$FULL_HOSTNAME"
-      echo ""
-      echo ""
-      
-      while true; do
-
-         echo "Retry? (Y/n)"
-         read RESPONSE
+	$__SYSTEM_SUDO_INSTALL numix-icon-theme-circle
+	
+	
+	if [ "$__SYSTEM_DISTRO_FAMILY" == "debian" ]; then
+	
+	
+		$__SYSTEM_SUDO_INSTALL arc-theme
+	
+	
+	fi
+	
+	
+fi
 
 
-         if [ -z "$RESPONSE" ]; then
+if [ "$__SYSTEM_DISTRO" == "debian" ]; then
+	
+	
+	if [ ! -d /usr/share/fonts/truetype/___fonts ]; then
+	
+		sudo mkdir -p /usr/share/fonts/truetype/___fonts
+		
+		sudo cp -Rf /dropbox/configuration/font/___fonts/* /usr/share/fonts/truetype/___fonts/
+		
+		fc-cache -v
+		
+	fi
+	
 
-            DEFER_GIT_CONFIG="1"
-
-            break
-
-         elif [ "$RESPONSE" = "y"]; then
-
-            DEFER_GIT_CONFIG="1"
-
-            break
-
-         elif [ "$RESPONSE" = "Y"]; then
-
-            DEFER_GIT_CONFIG="1"
-
-            break
-
-         elif [ "$RESPONSE" = "n"]; then
-
-            DEFER_GIT_CONFIG="0"
-
-            break
-
-         elif [ "$RESPONSE" = "N"]; then
-
-            DEFER_GIT_CONFIG="0"
-
-            break
-
-         fi
-
-      done
-            
-   done
-
-}
+fi
 
 
-defer_git_config
+$__SYSTEM_SUDO_INSTALL guake
 
 
-samba_cloud_storage
+sudo ln -s $HOME/.config/ca2/localconfig/dedicatory.txt $HOME/Desktop/dedicatory.txt
 
 
+
+gio set -t string $HOME/Desktop/dedicatory.txt metadata::custom-icon file:///dropbox/ca2/dedicatory/tree.png
 
