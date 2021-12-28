@@ -47,4 +47,4 @@ announce:hour:nl:%1 uur in %2
 announce:hour:da:%1 timer i %2
 digital
 tld=
-sel=
+sel=0
