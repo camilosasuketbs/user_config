@@ -1,0 +1,86 @@
+#!/bin/bash
+
+
+
+
+defer_git_config()
+{
+
+   FULL_HOSTNAME=$(hostname -f)
+   GITHUB_ID=$(cat $HOME/github_id.txt)
+   GITHUB_ID=($echo $GITHUB_ID)
+
+
+   DEFER_GIT_CONFIG="1"
+
+
+   while [ "$DEFER_GIT_CONFIG" -eq "1" ]; do
+
+      git ls-remote https://github.com/$GITHUB_ID/user_config_$FULL_HOSTNAME -q
+
+      USER_LOCAL_CONFIG_OK=$?
+
+      if [ "$USER_LOCAL_CONFIG_OK" -eq "0" ]; then
+
+         break
+
+      fi
+
+      echo ""
+      echo ""
+      echo "Could not connect to https://github.com/$GITHUB_ID/user_config_$FULL_HOSTNAME"
+      echo ""
+      echo ""
+      
+      while true; do
+
+         echo "Retry? (Y/n)"
+         read RESPONSE
+
+
+         if [ -z "$RESPONSE" ]; then
+
+            DEFER_GIT_CONFIG="1"
+
+            break
+
+         elif [ "$RESPONSE" = "y"]; then
+
+            DEFER_GIT_CONFIG="1"
+
+            break
+
+         elif [ "$RESPONSE" = "Y"]; then
+
+            DEFER_GIT_CONFIG="1"
+
+            break
+
+         elif [ "$RESPONSE" = "n"]; then
+
+            DEFER_GIT_CONFIG="0"
+
+            break
+
+         elif [ "$RESPONSE" = "N"]; then
+
+            DEFER_GIT_CONFIG="0"
+
+            break
+
+         fi
+
+      done
+            
+   done
+
+}
+
+
+defer_git_config
+
+
+samba_cloud_storage
+
+
+
