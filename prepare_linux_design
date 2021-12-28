@@ -38,10 +38,13 @@ fi
 
 $__SYSTEM_SUDO_INSTALL guake
 
+if [ ! -L $HOME/Desktop/dedicatory.txt ]; then
 
-sudo ln -s $HOME/.config/ca2/localconfig/dedicatory.txt $HOME/Desktop/dedicatory.txt
+	sudo ln -s $HOME/.config/ca2/localconfig/dedicatory.txt $HOME/Desktop/dedicatory.txt
+
+	gio set -t string $HOME/Desktop/dedicatory.txt metadata::custom-icon file:///dropbox/ca2/dedicatory/tree.png
+
+fi
 
 
-
-gio set -t string $HOME/Desktop/dedicatory.txt metadata::custom-icon file:///dropbox/ca2/dedicatory/tree.png
 
